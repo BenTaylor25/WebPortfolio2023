@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import MyNav from './components/base/MyNav'
+import './App.scss'
 
 function App() {
 
   return (
     <div className="App">
+      <MyNav />
       <p>this is another test</p>
     </div>
   )
