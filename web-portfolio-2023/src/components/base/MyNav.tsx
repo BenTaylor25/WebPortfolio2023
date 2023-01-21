@@ -10,7 +10,13 @@ export default function MyNav() {
                     <a href="/about">About</a>
                 </li>
                 <li>
-                    <a href="/pricing">Pricing</a>
+                    <a href="/work">Work</a>
+                </li>
+                <li>
+                    <a href="/projects">Projects</a>
+                </li>
+                <li>
+                    <a href="/analyses">Analyses</a>
                 </li>
             </ul>
         </nav>

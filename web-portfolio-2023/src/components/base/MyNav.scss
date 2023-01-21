@@ -1,27 +1,34 @@
+$nav-bg-col: black;
+$nav-font-col: white;
+$nav-hover-font-col: #40cc40;
+$nav-hover-bg-col: $nav-bg-col;   /* invisible */
 
 nav {
-    background-color: black;
-    color: bisque;
+    background-color: $nav-bg-col;
+    color: $nav-font-col;
     display: flex;
     justify-content: space-between;
     align-items: stretch;
     gap: 2rem;
-    padding: 0 1rem;
+    padding: 0 2.5rem;
 
     #title {
-        font-size: 2.5rem;
+        font-size: 3.25rem;
+        padding: 0.5rem 0.5rem;
     }
 
     a {
+        font-size: 1.5rem;
         color: inherit;
         text-decoration: none;
         height: 100%;
         display: flex;
         align-items: center;
+        padding: 0 1rem;
 
         &:hover {
-            color: aqua;
-            background-color: grey;
+            color: $nav-hover-font-col;
+            background-color: $nav-hover-bg-col;
         }
     }
 
