@@ -1,7 +1,11 @@
 $nav-bg-col: black;
 $nav-font-col: white;
 $nav-hover-font-col: #40cc40;
-$nav-hover-bg-col: $nav-bg-col;   /* invisible */
+$nav-hover-bg-col: $nav-bg-col;   // invisible
+
+$nav-dropdown-bg-col: $nav-bg-col;
+$nav-dropdown-font-col: $nav-font-col;
+$nav-dropdown-hover-font-col: $nav-hover-font-col;
 
 nav {
     background-color: $nav-bg-col;
@@ -60,7 +64,12 @@ nav {
 }
 
 @media screen and (orientation: portrait) {
+    $nav-height: 7.65vh;
+
     nav {
+        height: $nav-height;
+        display: grid;
+        grid-template-columns: auto auto;
         padding: 0 1rem;
 
         #title {
@@ -69,7 +78,26 @@ nav {
         }
 
         ul {
-            position: relative;
+            width: 100%;
+            flex-direction: column;
+            position: fixed;
+            background-color: $nav-dropdown-bg-col;
+            color: $nav-dropdown-font-col;
+            top: $nav-height;
+            left: 0;
+            gap: 0;
+
+            li {
+                width: 100%;
+
+                a {
+                    padding: 1rem 1rem;
+
+                    &:hover {
+                        color: $nav-dropdown-hover-font-col
+                    }
+                }
+            }
         }
 
         .hamburger {
