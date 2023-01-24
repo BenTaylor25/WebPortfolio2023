@@ -4,21 +4,14 @@ import MyNav from './components/base/MyNav'
 import Home from './components/pages/Home'
 import './App.scss'
 
-function App() {
-  const test = useMediaQuery("(orientation: portrait)");
-  console.log(test);
+export default function App() {
+  /** rerender on orientation change */
+  const RROOC = useMediaQuery("(orientation: portrait)");
 
   return (
     <div className="App">
-      {<MyNav /> || test}
+      {<MyNav /> || RROOC}
       <Home />
     </div>
   )
 }
-
-export default App
-
-/*
-  look into
-  https://usehooks-ts.com/react-hook/use-media-query
-*/
