@@ -1,5 +1,7 @@
 import { useMediaQuery } from "@material-ui/core"
+
 import MyNav from './components/base/MyNav'
+import Home from './components/pages/Home'
 import './App.scss'
 
 function App() {
@@ -9,7 +11,7 @@ function App() {
   return (
     <div className="App">
       {<MyNav /> || test}
-      <p>this is another test</p>
+      <Home />
     </div>
   )
 }
