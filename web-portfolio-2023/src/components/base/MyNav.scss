@@ -7,7 +7,10 @@ $nav-dropdown-bg-col: $nav-bg-col;
 $nav-dropdown-font-col: $nav-font-col;
 $nav-dropdown-hover-font-col: $nav-hover-font-col;
 
+@use '../utilities/variables' as VAR;
+
 nav {
+    height: VAR.$nav-height;
     background-color: $nav-bg-col;
     color: $nav-font-col;
     display: flex;
@@ -64,10 +67,8 @@ nav {
 }
 
 @media screen and (orientation: portrait) {
-    $nav-height: 7.65vh;
-
     nav {
-        height: $nav-height;
+        height: VAR.$nav-mobile-height;
         display: grid;
         grid-template-columns: auto auto;
         padding: 0 1rem;
@@ -83,7 +84,7 @@ nav {
             position: fixed;
             background-color: $nav-dropdown-bg-col;
             color: $nav-dropdown-font-col;
-            top: $nav-height;
+            top: VAR.$nav-mobile-height;
             left: 0;
             gap: 0;
 

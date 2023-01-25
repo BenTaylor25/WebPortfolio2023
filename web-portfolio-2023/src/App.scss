@@ -1,3 +1,4 @@
+@use './components/utilities/variables' as VAR;
 
 * {
     box-sizing: border-box;
@@ -6,4 +7,12 @@
 
 body {
     margin: 0;
+}
+
+main {
+    min-height: 100vh - VAR.$nav-height;
+
+    @media screen and (orientation: portrait) {
+        min-height: 100vh - VAR.$nav-mobile-height;
+    }
 }
