@@ -1,0 +1,21 @@
+@use '../utilities/variables' as VAR;
+
+footer {
+    background: #000;   //
+    height: VAR.$footer-height;
+    @media screen and (orientation: portrait) {
+        height: VAR.$footer-mobile-height;
+    }
+
+    .link-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+
+    a {
+        margin: 2rem;
+        color: white;
+    }
+}

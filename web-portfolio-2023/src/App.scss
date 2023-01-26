@@ -10,9 +10,9 @@ body {
 }
 
 main {
-    min-height: 100vh - VAR.$nav-height;
+    min-height: 100vh - VAR.$nav-height - VAR.$nav-height;
 
     @media screen and (orientation: portrait) {
-        min-height: 100vh - VAR.$nav-mobile-height;
+        min-height: 100vh - VAR.$nav-mobile-height - VAR.$footer-mobile-height;
     }
 }

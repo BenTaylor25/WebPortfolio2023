@@ -1,6 +1,7 @@
 import { useMediaQuery } from "@material-ui/core"
 
 import MyNav from './components/base/MyNav'
+import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
 import './App.scss'
 
@@ -12,6 +13,7 @@ export default function App() {
     <div className="App">
       {<MyNav /> || RROOC}
       <Home />
+      <MyFooter></MyFooter>
     </div>
   )
 }
