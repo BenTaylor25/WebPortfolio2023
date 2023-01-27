@@ -6,7 +6,7 @@ export default function MyNav() {
 
     return (
         <nav>
-            <a href="/" id="title">Ben Taylor</a>
+            <a href="/WebPortfolio2023/" id="title">Ben Taylor</a>
 
             <div className="hamburger" onClick={() => setShowDropdown(show => !show)}>
                 <span></span>
@@ -17,16 +17,16 @@ export default function MyNav() {
             { (!screenPortrait() || showDropdown) &&
                 <ul>
                     <li>
-                        <a href="/about">About</a>
+                        <a href="/WebPortfolio2023/about">About</a>
                     </li>
                     <li>
-                        <a href="/work">Work</a>
+                        <a href="/WebPortfolio2023/work">Work</a>
                     </li>
                     <li>
-                        <a href="/projects">Projects</a>
+                        <a href="/WebPortfolio2023/projects">Projects</a>
                     </li>
                     <li>
-                        <a href="/analyses">Analyses</a>
+                        <a href="/WebPortfolio2023/analyses">Analyses</a>
                     </li>
                 </ul>
             }
