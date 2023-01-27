@@ -1,8 +1,4 @@
 
-# General
-Add links to GitHub, LinkedIn, and YouTube.  
-Footer?
-
 # Home Page
 Summary of key technologies?
 
