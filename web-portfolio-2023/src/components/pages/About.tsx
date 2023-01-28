@@ -26,13 +26,14 @@ export default function About() {
                 <h1>Skills</h1>
                 <section>
                     <h2>Advanced</h2>
-                    <p>Python, HTML, Fuze4NS</p>
+                    <p>Python, Fuze4NS</p>
+                    <p>HTML</p>
                     <h2>Confident</h2>
                     <p>JavaScript, TypeScript, Java, C++</p>
-                    <p>VSCode, Git, React</p>
+                    <p>VSCode, Git, GitHub, React, CSS</p>
                     <h2>Knowledgeable</h2>
                     <p>C#, Dart, Rust, C, Go</p>
-                    <p>Flutter, SQL, Vue.js</p>
+                    <p>SCSS, Flutter, SQL, Vue.js</p>
                     <h2>Beginner</h2>
                     <p>Ruby, Kotlin, Lua, Swift</p>
                     <p>Tauri</p>

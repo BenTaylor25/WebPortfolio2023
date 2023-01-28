@@ -15,4 +15,12 @@ main.about {
             width: 50vw;
         }
     }
+
+    section.skills {
+        section {
+            h2:first-child {
+                margin-top: 1rem;
+            }
+        }
+    }
 }
