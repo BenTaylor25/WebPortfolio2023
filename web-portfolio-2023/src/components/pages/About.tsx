@@ -6,7 +6,21 @@ export default function About() {
         <main className='about'>
             <section className='bio'>
                 <h1>Bio</h1>
-                <p>Lorem ipsum</p>
+                <p>
+                    Hi, my name is Ben and I'm a Computer Science student at Oxford Brookes.
+                    I love bringing ideas and designs to life through problem solving and
+                    code, and am keen to pursuit a career in Desktop-, Web-, Mobile-,
+                    or Game Development after I graduate.
+                </p>
+                <p>
+                    Outside of tech, I am interested in Psychology, Philosophy, Language,
+                    History, and Storytelling. When I'm not working on programming projects,
+                    I enjoy watching Formula 1, playing video games, and learning German.
+                </p>
+                <img
+                    src="src/assets/hillpicture.jpg"
+                    alt="image of Ben sat on a hill with his dog next to him"
+                />
             </section>
             <section className='skills'>
                 <h1>Skills</h1>

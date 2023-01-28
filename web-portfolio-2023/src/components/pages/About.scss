@@ -1,6 +1,18 @@
 
 main.about {
     &>section {
+        display: flex;
+        flex-direction: column;
         margin-bottom: 3rem;
+    }
+
+    section {
+        display: flex;
+        flex-direction: column;
+        
+        p {
+            align-self: center;
+            width: 50vw;
+        }
     }
 }
