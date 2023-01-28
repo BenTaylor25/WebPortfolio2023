@@ -6,6 +6,7 @@ import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
 import About from "./components/pages/About";
 import './App.scss'
+import './components/pages/_AllPages.scss'
 
 export default function App() {
   /** rerender on orientation change */
