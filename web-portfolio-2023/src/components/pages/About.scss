@@ -1,0 +1,68 @@
+
+main.about {
+    &>section {
+        display: grid;
+        // flex-direction: column;
+        margin-bottom: 3rem;
+        grid-template-columns: 30vw 30vw;
+        margin-left: 20vw;
+        
+        p {
+            justify-self: center;
+            align-self: center;
+            width: 75%;
+            margin-left: 12.5%;
+        }
+
+        img {
+            justify-self: center;
+            width: 75%;
+        }
+    }
+
+    /// ?
+    // section.bio {
+    //     p {
+    //         text-align: left;
+    //     }
+    // }
+
+    section.skills {
+        section {
+            h2:first-child {
+                margin-top: 1rem;
+            }
+        }
+    }
+
+    section.education {
+        h3 {
+            font-size: 1.75rem;
+        }
+
+        table.modules {
+            color: white;
+            margin: 1rem 0;
+            width: 100%;
+
+            &, th, td {
+                border-collapse: collapse;
+                border: 1px white solid;
+                text-align: center;
+                font-size: 1.125rem;
+            }
+
+            th {
+                font-size: 1.25rem;
+            }
+
+            tr {
+                font-weight: 200;
+
+                &.highlight {
+                    font-weight: 900;
+                }
+            }
+        }
+    }
+}
