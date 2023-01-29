@@ -54,23 +54,11 @@ export default function About() {
                     <h1>Education</h1>
                     <section>
                         <h2>Degree</h2>
-                        <h3>BSc Computer Science at Oxford Brookes (2021-2025)</h3>
-                        {/* <ul className='modules'>
-                            <li>Problem Solving and Programming - A+ (96%)</li>
-                            <li>Foundations of Computer Systems - A+ (77%)</li>
-                            <li>Basic Communications and PC Networking - A (70%)</li>
-                            <li>Information Systems - A+ (93%)</li>
-                            <li>Object Oriented Programming - A+ (98%)</li>
-                            <li>DevOps - A+ (84%)</li>
-                            <li>Mathematics for Computing - A+ (100%)</li>
-                            <li>Software Development in C and C++ - A+ (100%)</li>
-                            <li>Data Structures and Algorithms - A+ (100%)</li>
-                            <li>Foundations of Security - A (73%)</li>
-                            <li>Innovative Product Development - [Sep22-May23]</li>
-                            <li>Foundations of Computation - [Jan23-May23]</li>
-                            <li>Databases - [Jan23-May23]</li>
-                            <li>Web App Development - [Jan23-May23]</li>
-                        </ul> */}
+                        <h3>
+                            BSc Computer Science [4.0 GPA]
+                            <br />
+                            at Oxford Brookes (2021-2025)
+                        </h3>
                         <table className='modules'>
                             <tr>
                                 <th style={{width: "80%"}}>Module Name</th>
@@ -92,7 +80,7 @@ export default function About() {
                                 <td>Information Systems</td>
                                 <td>A+ (93%)</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Object Oriented Programming</td>
                                 <td>A+ (98%)</td>
                             </tr>
@@ -104,11 +92,11 @@ export default function About() {
                                 <td>Mathematics for Computing</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Software Development in C and C++</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Data Structures and Algorithms</td>
                                 <td>A+ (100%)</td>
                             </tr>
@@ -128,7 +116,7 @@ export default function About() {
                                 <td>Databases</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Web App Development</td>
                                 <td>[Jan23-May23]</td>
                             </tr>

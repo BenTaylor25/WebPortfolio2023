@@ -49,6 +49,19 @@ main.about {
                 border-collapse: collapse;
                 border: 1px white solid;
                 text-align: center;
+                font-size: 1.125rem;
+            }
+
+            th {
+                font-size: 1.25rem;
+            }
+
+            tr {
+                font-weight: 200;
+
+                &.highlight {
+                    font-weight: 900;
+                }
             }
         }
     }
