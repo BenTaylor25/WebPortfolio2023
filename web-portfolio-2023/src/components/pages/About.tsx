@@ -112,7 +112,7 @@ export default function About() {
                                 <td>Foundations of Computation</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Databases</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
