@@ -6,12 +6,21 @@ main.about {
         margin-bottom: 3rem;
         grid-template-columns: 30vw 30vw;
         margin-left: 20vw;
-        
+
+        @media screen and (orientation: portrait) {
+            grid-template-columns: 60vw;
+        }
+
         p {
             justify-self: center;
             align-self: center;
             width: 75%;
             margin-left: 12.5%;
+
+            @media screen and (orientation: portrait) {
+                width: 100%;
+                margin-left: 0;
+            }
         }
 
         img {
@@ -20,12 +29,12 @@ main.about {
         }
     }
 
-    /// ?
-    // section.bio {
-    //     p {
-    //         text-align: left;
-    //     }
-    // }
+     // ?
+    section.bio, section.other {
+        p {
+            text-align: left;
+        }
+    }
 
     section.skills {
         section {
