@@ -5,6 +5,7 @@ import MyNav from './components/base/MyNav'
 import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
 import About from "./components/pages/About";
+import Work from "./components/pages/Work";
 import './App.scss'
 import './components/pages/_AllPages.scss'
 
@@ -20,6 +21,7 @@ export default function App() {
         <Routes>
           <Route path="/WebPortfolio2023/" element={<Home />}></Route>
           <Route path="/WebPortfolio2023/about" element={<About />}></Route>
+          <Route path="/WebPortfolio2023/work" element={<Work />}></Route>
         </Routes>
       </BrowserRouter>
 
