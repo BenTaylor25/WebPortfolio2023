@@ -28,8 +28,8 @@ export default function About() {
             </section>
             <section className='skills'>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
+                    src=""
+                    alt="image of Ben sat working on a laptop"
                 />
                 <div>
                     <h1>Skills</h1>
@@ -127,14 +127,14 @@ export default function About() {
                     <p>See my full education background on <a href="https://www.linkedin.com/in/bentaylor25">LinkedIn</a></p>
                 </div>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
-                />
+                    src=""
+                    alt="[not sure yet]"
+                />   {/* Replace with image of graduation in 2025? */}
             </section>
             <section className='other'>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
+                    src=""
+                    alt="image of Ben giving presentation PAL/other?"
                 />
                 <div>
                     <h1>Other</h1>
