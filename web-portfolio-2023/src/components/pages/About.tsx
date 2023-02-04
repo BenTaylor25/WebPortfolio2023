@@ -13,6 +13,7 @@ export default function About() {
                         code, and am keen to pursuit a career in Desktop-, Web-, Mobile-,
                         or Game Development after I graduate.
                     </p>
+                    <br />
                     <p>
                         Outside of tech, I enjoy discussing Philosophy and Storytelling,
                         and learning about Psychology, Language, and History. When I'm
