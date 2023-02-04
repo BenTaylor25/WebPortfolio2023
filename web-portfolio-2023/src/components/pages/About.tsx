@@ -140,7 +140,15 @@ export default function About() {
                     <h1>Other</h1>
                     <section>
                         <h2>Student Rep</h2>
-                        <p></p>
+                        <p>
+                            For the duration of my degree, I have been a Student Representative.
+                            This is an unpaid role where I discuss the quality and scope of lectures
+                            and seminars, and feedback to the module leaders about how the course
+                            can be improved for future years.
+                            <br />
+                            While achieving my degree retains priority, leaving a positive impact on
+                            the course is something I take pride in.
+                        </p>
                     </section>
                 </div>
             </section>
