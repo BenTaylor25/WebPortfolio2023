@@ -14,9 +14,11 @@ export default function About() {
                         or Game Development after I graduate.
                     </p>
                     <p>
-                        Outside of tech, I am interested in Psychology, Philosophy, Language,
-                        History, and Storytelling. When I'm not working on programming projects,
-                        I enjoy watching Formula 1, playing video games, and learning German.
+                        Outside of tech, I enjoy discussing Philosophy and Storytelling,
+                        and learning about Psychology, Language, and History. When I'm
+                        not working on programming projects or getting several weeks ahead
+                        of my uni course, I enjoy watching Formula 1, playing video games,
+                        and learning German.
                     </p>
                 </div>
                 <img
