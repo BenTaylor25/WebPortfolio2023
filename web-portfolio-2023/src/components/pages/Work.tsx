@@ -4,7 +4,7 @@ export default function Work() {
     return (
         <main className="work">
             <section className="entry">
-                <img src="src/assets/icon.jpg" alt="Ben Icon" />
+                <img src="src/assets/icon.png" alt="Ben Icon" />
                 <div className="text">
                     <h1>Freelance Web Development</h1>
                     <p>
