@@ -86,6 +86,21 @@ export default function Work() {
                     </p>
                 </div>
             </section>
+
+            <section className="entry">
+                <a className="image" href="https://fuze.co.uk">
+                    <img src="src/assets/work/fuze.png" alt="Fuze Technologies Logo" />
+                </a>
+                <div className="text">
+                    <h1>Programming Tutor - Fuze Technologies</h1>
+                    <h2>Oct 2018 - Mar 2021</h2>
+                    <p>
+                        My main role at <a href="https://fuze.co.uk">Fuze Technologies</a> was teaching
+                        programming to children through simple games. This required me to break down the
+                        concepts and communicate them. I also became proficient at finding errors quickly.
+                    </p>
+                </div>
+            </section>
         </main>
     )
 }
