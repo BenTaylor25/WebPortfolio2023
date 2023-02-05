@@ -1,0 +1,23 @@
+
+.entry {
+    display: grid;
+    grid-template-columns: repeat(2, 35vw);
+    margin-left: 10vw;
+
+    img {
+        width: 6vw;
+        justify-self: center;
+        align-self: center;
+    }
+
+    .text {
+        h1 {
+            font-size: 2.5rem;
+        }
+
+        p {
+            text-align: left;
+        }
+    }
+}
+
