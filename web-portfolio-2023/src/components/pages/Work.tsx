@@ -71,6 +71,20 @@ export default function Work() {
                     </p>
                 </div>
             </section>
+
+            <section className="entry">
+                <a className="image" href="https://www.codeninjas.co.uk/oxford-oxf-uk">
+                    <img src="src/assets/work/codeninjas.jpg" alt="Code Ninjas Logo" />
+                </a>
+                <div className="text">
+                    <h1>Computer Science Tutor - Code Ninjas Oxford</h1>
+                    <h2>Sep 2021 - Jul 2022</h2>
+                    <p>
+                        At Code Ninjas Oxford, I taught a variety of different technologies to children,
+                        including Scratch, JavaScript, and Electronics.
+                    </p>
+                </div>
+            </section>
         </main>
     )
 }
