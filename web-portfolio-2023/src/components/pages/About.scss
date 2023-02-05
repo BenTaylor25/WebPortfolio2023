@@ -8,7 +8,8 @@ main.about {
         margin-left: 20vw;
 
         @media screen and (orientation: portrait) {
-            grid-template-columns: 60vw;
+            grid-template-columns: 90%;
+            margin-left: 5%;
         }
 
         p {
@@ -20,6 +21,7 @@ main.about {
             @media screen and (orientation: portrait) {
                 width: 100%;
                 margin-left: 0;
+                font-size: 1.5rem;
             }
         }
 
@@ -32,6 +34,10 @@ main.about {
     section.bio, section.other {
         p {
             text-align: left;
+
+            @media screen and (orientation: portrait) {
+                text-align: center;
+            }
         }
     }
 
