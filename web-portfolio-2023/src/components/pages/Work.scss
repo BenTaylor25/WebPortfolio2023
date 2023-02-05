@@ -1,10 +1,11 @@
 
 .entry {
+    margin-top: 2rem;
     display: grid;
     grid-template-columns: repeat(2, 35vw);
     margin-left: 10vw;
 
-    img {
+    a.image, img {
         width: 6vw;
         justify-self: center;
         align-self: center;
@@ -15,8 +16,14 @@
             font-size: 2.5rem;
         }
 
+        h2 {
+            font-size: 1.75rem;
+            margin-top: 0;
+        }
+
         p {
             text-align: left;
+            margin-bottom: 1rem;
         }
     }
 }
