@@ -1,8 +1,14 @@
+@use '../utilities/variables' as VAR;
 
 main {
     background: #333;
     display: flex;
     flex-direction: column;
+    margin-top: VAR.$nav-height;
+
+    @media screen and (orientation: portrait) {
+        margin-top: VAR.$nav-mobile-height;
+    }
 
     h1, h2, h3, h4, p, a, li {
         margin: 0;
@@ -28,7 +34,7 @@ main {
     }
 
     p, li {
-        font-size: 1.5rem;
+        font-size: 1.35rem;
     }
 
     li {

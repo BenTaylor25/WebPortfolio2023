@@ -13,10 +13,13 @@ export default function About() {
                         code, and am keen to pursuit a career in Desktop-, Web-, Mobile-,
                         or Game Development after I graduate.
                     </p>
+                    <br />
                     <p>
-                        Outside of tech, I am interested in Psychology, Philosophy, Language,
-                        History, and Storytelling. When I'm not working on programming projects,
-                        I enjoy watching Formula 1, playing video games, and learning German.
+                        Outside of tech, I enjoy discussing Philosophy and Storytelling,
+                        and learning about Psychology, Language, and History. When I'm
+                        not working on programming projects or getting several weeks ahead
+                        of my uni course, I enjoy watching Formula 1, playing video games,
+                        and learning German.
                     </p>
                 </div>
                 <img
@@ -26,8 +29,8 @@ export default function About() {
             </section>
             <section className='skills'>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
+                    src=""
+                    alt="image of Ben sat working on a laptop"
                 />
                 <div>
                     <h1>Skills</h1>
@@ -112,7 +115,7 @@ export default function About() {
                                 <td>Foundations of Computation</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
-                            <tr>
+                            <tr className='highlight'>
                                 <td>Databases</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
@@ -125,20 +128,28 @@ export default function About() {
                     <p>See my full education background on <a href="https://www.linkedin.com/in/bentaylor25">LinkedIn</a></p>
                 </div>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
-                />
+                    src=""
+                    alt="[not sure yet]"
+                />   {/* Replace with image of graduation in 2025? */}
             </section>
             <section className='other'>
                 <img
-                    src="src/assets/hillpicture.jpg"
-                    alt="image of Ben sat on a hill with his dog next to him"
+                    src=""
+                    alt="image of Ben giving presentation PAL/other?"
                 />
                 <div>
                     <h1>Other</h1>
                     <section>
                         <h2>Student Rep</h2>
-                        <p></p>
+                        <p>
+                            For the duration of my degree, I have been a Student Representative.
+                            This is an unpaid role where I discuss the quality and scope of lectures
+                            and seminars, and feedback to the module leaders about how the course
+                            can be improved for future years.
+                            <br />
+                            While achieving my degree retains priority, leaving a positive impact on
+                            the course is something I take pride in.
+                        </p>
                     </section>
                 </div>
             </section>

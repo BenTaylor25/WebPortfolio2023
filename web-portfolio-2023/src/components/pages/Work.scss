@@ -1,0 +1,63 @@
+
+.entry {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    display: grid;
+    grid-template-columns: repeat(2, 35vw);
+    margin-left: 10vw;
+
+    @media screen and (orientation: portrait) {
+        margin-top: 0;
+        width: 90%;
+        margin-left: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    &:last-child {
+        margin-bottom: 7.5rem;
+
+        @media screen and (orientation: portrait) {
+            margin-bottom: 2rem;
+        }
+    }
+
+    a.image, img {
+        width: 6vw;
+        justify-self: center;
+        align-self: center;
+
+        @media screen and (orientation: portrait) {
+            width: 20vw;
+        }
+    }
+
+    .text {
+        h1 {
+            font-size: 2.5rem;
+
+            @media screen and (orientation: portrait) {
+                margin-top: 0;
+            }
+        }
+
+        h2 {
+            font-size: 1.75rem;
+            margin-top: 0;
+        }
+
+        p {
+            font-size: 1.35rem;
+            text-align: left;
+            margin-bottom: 1rem;
+
+            @media screen and (orientation: portrait) {
+                text-align: center;
+                font-size: 1.5rem;
+                margin-top: 1rem;
+            }
+        }
+
+    }
+}
+

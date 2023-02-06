@@ -10,10 +10,13 @@ $nav-dropdown-hover-font-col: $nav-hover-font-col;
 @use '../utilities/variables' as VAR;
 
 nav {
+    width: 100vw;
+    top: 0;
     height: VAR.$nav-height;
     background-color: $nav-bg-col;
     color: $nav-font-col;
     display: flex;
+    position: fixed;
     justify-content: space-between;
     align-items: stretch;
     gap: 2rem;
