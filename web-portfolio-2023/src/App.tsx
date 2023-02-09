@@ -6,6 +6,7 @@ import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
 import About from "./components/pages/About";
 import Work from "./components/pages/Work";
+import Projects from "./components/pages/Projects";
 import NotFound from "./components/pages/NotFound";
 import './App.scss'
 import './components/pages/_AllPages.scss'
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/WebPortfolio2023/" element={<Home />}></Route>
           <Route path="/WebPortfolio2023/about" element={<About />}></Route>
           <Route path="/WebPortfolio2023/work" element={<Work />}></Route>
+          <Route path="/WebPortfolio2023/projects" element={<Projects />}></Route>
           <Route path="*" element={<NotFound />}></Route>
         </Routes>
       </BrowserRouter>
