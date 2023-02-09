@@ -7,8 +7,8 @@ export default function Projects() {
         <main className="projects">
             <h1>Projects</h1>
 
-            <ProjectEntry></ProjectEntry>
-            <ProjectEntry></ProjectEntry>
+            <ProjectEntry name='Billiards'></ProjectEntry>
+            <ProjectEntry name='DSAVisualiser'></ProjectEntry>
         </main>
     );
 }
