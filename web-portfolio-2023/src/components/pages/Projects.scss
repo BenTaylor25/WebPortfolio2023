@@ -1,0 +1,15 @@
+
+main.projects {
+    display: flex;
+    align-items: center;
+
+    section#project-entry {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 80vw;
+        border: 1px solid black;
+        min-height: 10rem;
+        margin-top: 2rem;
+    }
+}
