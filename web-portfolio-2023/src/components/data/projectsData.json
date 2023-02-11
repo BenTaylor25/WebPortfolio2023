@@ -2,6 +2,7 @@
     {
         "name": "Billiards",
         "description": "placeholder: desc for Billiards",
+        "technologies": "C++, olcPixelGameEngine",
         "imageURL": "src/assets/projects/BilliardsScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/Billiards",
         "youtubeURL": "https://www.youtube.com/watch?v=cdiVpsB5q_E&list=PLWuRbZ_7VbDwawCXzPnlTekZ0KXhMrcC9"
@@ -9,6 +10,7 @@
     {
         "name": "DSAVisualiser",
         "description": "placeholder: desc for DSAVisualiser",
+        "technologies": "Java, LibGDX",
         "imageURL": "src/assets/projects/DSAVisualiserScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/DSAVisualiser",
         "youtubeURL": "https://www.youtube.com/watch?v=Ysuiop8c3q0&list=PLWuRbZ_7VbDzPBkY5h0Wb_b25q0ta16V-"
