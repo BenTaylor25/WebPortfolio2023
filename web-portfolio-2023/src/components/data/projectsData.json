@@ -16,5 +16,48 @@
         "imageURL": "src/assets/projects/DSAVisualiserScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/DSAVisualiser",
         "youtubeURL": "https://www.youtube.com/watch?v=Ysuiop8c3q0&list=PLWuRbZ_7VbDzPBkY5h0Wb_b25q0ta16V-"
+    },
+    {
+        "name": "Intro to Programming",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": "",
+        "youtubeURL": ""
+    },
+    {
+        "name": "Intro to OOP",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
+    },
+    {
+        "name": "WebPortfolio2023",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
+    },
+    {
+        "name": "Basic Strategy Trainer",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
+    },
+    {
+        "name": "Polyglot Quiz",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
+    },
+    {
+        "name": "MatryoshkaTicTacToe",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
     }
 ]
