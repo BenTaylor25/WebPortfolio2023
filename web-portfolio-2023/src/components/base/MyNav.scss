@@ -10,6 +10,7 @@ $nav-dropdown-hover-font-col: $nav-hover-font-col;
 @use '../utilities/variables' as VAR;
 
 nav {
+    z-index: 1;
     width: 100vw;
     top: 0;
     height: VAR.$nav-height;
