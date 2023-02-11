@@ -1,8 +1,12 @@
 [
     {
-        "name": "Billiards"
+        "name": "Billiards",
+        "description": "placeholder: desc for Billiards",
+        "imageURL": "src/assets/projects/BilliardsScreenshot.jpg"
     },
     {
-        "name": "DSAVisualiser"
+        "name": "DSAVisualiser",
+        "description": "placeholder: desc for DSAVisualiser",
+        "imageURL": "src/assets/projects/DSAVisualiserScreenshot.jpg"
     }
 ]
