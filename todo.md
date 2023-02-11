@@ -3,13 +3,11 @@
 Summary of key technologies?
 
 # About Page
-(technologies in more detail)
+Pictures
 
-# Work
-<>
 
 # Projects
-<>
+Add more projects
 
 # Analyses
 <>
