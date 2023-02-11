@@ -3,6 +3,7 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 
 interface Project {
     name: string,
+    time: string,
     description: string,
     technologies: string,
     imageURL: string,
@@ -16,8 +17,9 @@ export default function ProjectEntry(props: Project) {
         <section id="project-entry">
             <div id="info">
                 <h1>{ props.name }</h1>
+                <p>{ props.time }</p>
                 <p>{ props.description }</p>
-                <p id="technologies">Technologies { props.technologies }</p>
+                <p id="technologies">Technologies: { props.technologies }</p>
 
                 <div id="links">
                     {
