@@ -2,7 +2,7 @@
     {
         "name": "Billiards",
         "time": "Jun 2020 - Apr 2021",
-        "description": "Billiards was my A-Level Computer Science project. I ",
+        "description": "Billiards was my A-Level Computer Science project. I was also studying Further Maths at the time, where Elastic Collisions in Two Dimensions was a topic that I wanted to get a head start on, so I chose to adopt it into my programming project. It was my first time using C++, and I had to research a graphics library and implement rotation matrix logic in code.",
         "technologies": "C++, olcPixelGameEngine",
         "imageURL": "src/assets/projects/BilliardsScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/Billiards",

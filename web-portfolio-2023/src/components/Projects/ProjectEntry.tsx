@@ -19,7 +19,7 @@ export default function ProjectEntry(props: Project) {
                 <h1>{ props.name }</h1>
                 <p>{ props.time }</p>
                 <p>{ props.description }</p>
-                <p id="technologies">Technologies: { props.technologies }</p>
+                <p id="technologies">Technologies: { props.technologies }.</p>
 
                 <div id="links">
                     {
