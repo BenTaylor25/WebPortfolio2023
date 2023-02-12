@@ -25,9 +25,9 @@ export default function MyNav() {
                     <li>
                         <a href="/WebPortfolio2023/projects">Projects</a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a href="/WebPortfolio2023/analyses">Analyses</a>
-                    </li>
+                    </li> */}
                 </ul>
             }
         </nav>
