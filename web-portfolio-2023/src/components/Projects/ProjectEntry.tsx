@@ -1,5 +1,6 @@
 import GitHubIcon from '@mui/icons-material/GitHub';
 import YouTubeIcon from '@mui/icons-material/YouTube';
+import LanguageIcon from '@mui/icons-material/Language';
 
 interface Project {
     name: string,
@@ -8,7 +9,8 @@ interface Project {
     technologies: string,
     imageURL: string,
     githubURL?: string,
-    youtubeURL?: string
+    youtubeURL?: string,
+    siteURL?: string,
 }
 
 export default function ProjectEntry(props: Project) {
@@ -33,6 +35,12 @@ export default function ProjectEntry(props: Project) {
                         <a href={props.youtubeURL}>
                             <YouTubeIcon fontSize='large' />
                         </a> 
+                    }
+                    {
+                        props.siteURL && 
+                        <a href={props.siteURL}>
+                            <LanguageIcon fontSize='large' />
+                        </a>
                     }
                 </div>
             </div>
