@@ -3,7 +3,7 @@
         "name": "Billiards",
         "time": "Jun 2020 - Apr 2021",
         "description": "Billiards was my A-Level Computer Science project. I was also studying Further Maths at the time, where Elastic Collisions in Two Dimensions was a topic that I wanted to get a head start on, so I chose to adopt it into my programming project. It was my first time using C++, and I had to find a suitable graphics / mouse-input library and implement rotation matrix logic in code.",
-        "technologies": "C++, olcPixelGameEngine",
+        "technologies": "C++, olcPixelGameEngine, Visual Studio 2019",
         "imageURL": "src/assets/projects/BilliardsScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/Billiards",
         "youtubeURL": "https://www.youtube.com/watch?v=cdiVpsB5q_E&list=PLWuRbZ_7VbDwawCXzPnlTekZ0KXhMrcC9"
@@ -12,25 +12,26 @@
         "name": "DSAVisualiser",
         "time": "Mar 2022 - Sep 2022",
         "description": "At the end of my second semester at university, I was already looking ahead to the modules that I would be studying the following year. One of which was Data Structures and Algorithms - an extremely important topic for problem solving and interviews. I decided to make an interactive visualisation tool to help others on my course. I have since created a YouTube series on Data Structures and Algorithms which uses the application.",
-        "technologies": "Java, LibGDX",
+        "technologies": "Java, LibGDX, VSCode",
         "imageURL": "src/assets/projects/DSAVisualiserScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/DSAVisualiser",
         "youtubeURL": "https://www.youtube.com/watch?v=Ysuiop8c3q0&list=PLWuRbZ_7VbDzPBkY5h0Wb_b25q0ta16V-"
     },
     {
         "name": "Intro to Programming",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": "",
-        "youtubeURL": ""
+        "time": "Mar 2022 - Jun 2022",
+        "description": "In the first semester of my university course, I spoke to a lot of people that had no prior Computer Science experience and were struggling with the Problem Solving and Programming module. I offered help where I could, but after seeing some of the same questions from multiple people, I decided to make a Programming tutorial series. I decided to focus on the core concepts, with minimal fancy language-specific tips and tricks. I also showed off small amounts of C++ and Java code for comparison, to make learning a new language later easier.",
+        "technologies": "Python, Java, C++, VSCode, (OBS, Shotcut)",
+        "imageURL": "src/assets/projects/IntroToProgrammingScreenshot.jpg",
+        "youtubeURL": "https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf"
     },
     {
         "name": "Intro to OOP",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": ""
+        "time": "Dec 2022 - Jan 2023",
+        "description": "In the second semester of my university course, I spoke to a lot of people that were struggling with the concepts from the Object Oriented Programming module. Specifically, I think that Classes and Objects are very hard to describe in a short sentence without an example. I wanted to create a follow-up to my Intro to Programming series to explain each of the core concepts. I also included a crash-course-style video on applying the concepts from the previous series to the Java language.",
+        "technologies": "Java, VSCode, (OBS, Shotcut)",
+        "imageURL": "src/assets/projects/IntroToOOPScreenshot.jpg",
+        "youtubeURL": "https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzvS-jiwZAgzpm9lgsss3T-"
     },
     {
         "name": "WebPortfolio2023",
