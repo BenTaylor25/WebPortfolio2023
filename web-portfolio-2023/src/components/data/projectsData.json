@@ -35,9 +35,9 @@
     },
     {
         "name": "WebPortfolio2023",
-        "time": "",
-        "description": "",
-        "technologies": "",
+        "time": "Jan 2023 - ",
+        "description": "This is site you are current looking at! It's the second iteration of my portfolio site [see also WebPortfolio (2022)]. For this version, I wanted to use a UI framework. I decided on React because 1. it seems suitable for the scale of this project, 2. I have limited-time access to a web development crash course, and I wanted to learn and apply the React material, 3. React is popular...",
+        "technologies": "React, Sass, Vite, VSCode",
         "imageURL": ""
     },
     {
@@ -56,6 +56,13 @@
     },
     {
         "name": "MatryoshkaTicTacToe",
+        "time": "",
+        "description": "",
+        "technologies": "",
+        "imageURL": ""
+    },
+    {
+        "name": "WebPortfolio (2022)",
         "time": "",
         "description": "",
         "technologies": "",
