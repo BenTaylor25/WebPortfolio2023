@@ -38,7 +38,9 @@
         "time": "Jan 2023 - ",
         "description": "This is site you are current looking at! It's the second iteration of my portfolio site [see also WebPortfolio (2022)]. For this version, I wanted to use a UI framework. I decided on React because 1. it seems suitable for the scale of this project, 2. I have limited-time access to a web development crash course, and I wanted to learn and apply the React material, 3. React is popular...",
         "technologies": "React, Sass, Vite, VSCode",
-        "imageURL": ""
+        "imageURL": "",
+        "githubURL": "https://github.com/BenTaylor25/WebPortfolio2023",
+        "siteURL": "https://bentaylor25.github.io/WebPortfolio2023/"
     },
     {
         "name": "Basic Strategy Trainer",
@@ -63,9 +65,11 @@
     },
     {
         "name": "WebPortfolio (2022)",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": ""
+        "time": "Apr 2022 - May 2022",
+        "description": "This was my first Portfolio Site, and was my first web project outside of a tutorial. Given the context, I am very happy with the site, but it is now very outdated given my experience with web development.",
+        "technologies": "HTML, CSS, JavaScript, VSCode",
+        "imageURL": "src/assets/projects/WebPortfolio2022Screenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/WebPortfolio",
+        "siteURL": "https://bentaylor25.github.io/WebPortfolio/src/html/home.html"
     }
 ]
