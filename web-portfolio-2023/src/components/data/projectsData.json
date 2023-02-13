@@ -44,10 +44,11 @@
     },
     {
         "name": "Basic Strategy Trainer",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": ""
+        "time": "Nov 2022 - Dec 2022",
+        "description": "This is an interactive endless quiz for practicing Casino Blackjack Basic Strategy. Mathematicians have analysed Casino Blackjack games and found the optimal moves to make given every possible hand. Players can memorise the hands to win more games. (Note: Basic Strategy does not give you enough of an advantage to win more games than you use; I do not advocate careless gambling, please do not gamble more than you can afford to lose).",
+        "technologies": "Rust, VSCode",
+        "imageURL": "src/assets/projects/BasicStrategyTrainerScreenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/BasicStrategyTrainer"
     },
     {
         "name": "Polyglot Quiz",
