@@ -52,10 +52,11 @@
     },
     {
         "name": "Polyglot Quiz",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": ""
+        "time": "Dec 2022 - Jan 2023",
+        "description": "This is a very simple quiz program that explores the syntactic differences between a number of programming languages. I do not claim to be an expert in all of the following languages, but I had a lot of fun working with them.",
+        "technologies": "Python, Java, JavaScript, C, C++, C#, Rust, Go, Swift, Dart, and many more",
+        "imageURL": "src/assets/projects/PolyglotQuizScreenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/PolyglotQuiz"
     },
     {
         "name": "MatryoshkaTicTacToe",
