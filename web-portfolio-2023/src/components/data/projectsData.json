@@ -60,10 +60,11 @@
     },
     {
         "name": "MatryoshkaTicTacToe",
-        "time": "",
-        "description": "",
-        "technologies": "",
-        "imageURL": ""
+        "time": "Jul 2022",
+        "description": "Prior to attending the Serious Game Design course at Hochschule Luzern, Switzerland, I was tasked with desining an improvement to Tic Tac Toe. My idea was to give players tokens of different weights, such that you can place a counter over the top of your opponent's smaller counters. This project is a demo that I used to test my idea with friends and family.",
+        "technologies": "Python, VSCode",
+        "imageURL": "src/assets/projects/MatryoshkaTicTacToeScreenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/MatryoshkaTicTacToe"
     },
     {
         "name": "WebPortfolio (2022)",
