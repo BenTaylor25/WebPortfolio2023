@@ -3,7 +3,7 @@
         "name": "Billiards",
         "time": "Jun 2020 - Apr 2021",
         "description": "Billiards was my A-Level Computer Science project. I was also studying Further Maths at the time, where Elastic Collisions in Two Dimensions was a topic that I wanted to get a head start on, so I chose to adopt it into my programming project. It was my first time using C++, and I had to find a suitable graphics / mouse-input library and implement rotation matrix logic in code.",
-        "technologies": "C++, olcPixelGameEngine, Visual Studio 2019",
+        "technologies": "C++, olcPixelGameEngine",
         "imageURL": "src/assets/projects/BilliardsScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/Billiards",
         "youtubeURL": "https://www.youtube.com/watch?v=cdiVpsB5q_E&list=PLWuRbZ_7VbDwawCXzPnlTekZ0KXhMrcC9"
@@ -12,7 +12,7 @@
         "name": "DSAVisualiser",
         "time": "Mar 2022 - Sep 2022",
         "description": "At the end of my second semester at university, I was already looking ahead to the modules that I would be studying the following year. One of which was Data Structures and Algorithms - an extremely important topic for problem solving and interviews. I decided to make an interactive visualisation tool to help others on my course. I have since created a YouTube series on Data Structures and Algorithms which uses the application.",
-        "technologies": "Java, LibGDX, VSCode",
+        "technologies": "Java, LibGDX",
         "imageURL": "src/assets/projects/DSAVisualiserScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/DSAVisualiser",
         "youtubeURL": "https://www.youtube.com/watch?v=Ysuiop8c3q0&list=PLWuRbZ_7VbDzPBkY5h0Wb_b25q0ta16V-"
@@ -21,7 +21,7 @@
         "name": "Intro to Programming",
         "time": "Mar 2022 - Jun 2022",
         "description": "In the first semester of my university course, I spoke to a lot of people that had no prior Computer Science experience and were struggling with the Problem Solving and Programming module. I offered help where I could, but after seeing some of the same questions from multiple people, I decided to make a Programming tutorial series. I decided to focus on the core concepts, with minimal fancy language-specific tips and tricks. I also showed off small amounts of C++ and Java code for comparison, to make learning a new language later easier.",
-        "technologies": "Python, Java, C++, VSCode, (OBS, Shotcut)",
+        "technologies": "Python, Java, C++, (OBS, Shotcut)",
         "imageURL": "src/assets/projects/IntroToProgrammingScreenshot.jpg",
         "youtubeURL": "https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzYzZJ75csxOCsdVnFcNvCf"
     },
@@ -29,7 +29,7 @@
         "name": "Intro to OOP",
         "time": "Dec 2022 - Jan 2023",
         "description": "In the second semester of my university course, I spoke to a lot of people that were struggling with the concepts from the Object Oriented Programming module. Specifically, I think that Classes and Objects are very hard to describe in a short sentence without an example. I wanted to create a follow-up to my Intro to Programming series to explain each of the core concepts. I also included a crash-course-style video on applying the concepts from the previous series to the Java language.",
-        "technologies": "Java, VSCode, (OBS, Shotcut)",
+        "technologies": "Java, (OBS, Shotcut)",
         "imageURL": "src/assets/projects/IntroToOOPScreenshot.jpg",
         "youtubeURL": "https://www.youtube.com/playlist?list=PLWuRbZ_7VbDzvS-jiwZAgzpm9lgsss3T-"
     },
@@ -37,7 +37,7 @@
         "name": "WebPortfolio2023",
         "time": "Jan 2023 - ",
         "description": "This is site you are current looking at! It's the second iteration of my portfolio site. For this version, I wanted to use a UI framework. I decided on React because 1. it seems suitable for the scale of this project, 2. I have limited-time access to a web development crash course, and I wanted to learn and apply the React material, 3. React is popular...",
-        "technologies": "React, Sass, Vite, VSCode",
+        "technologies": "React, Sass, Vite",
         "imageURL": "src/assets/projects/WebPortfolio2023Screenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/WebPortfolio2023",
         "siteURL": "https://bentaylor25.github.io/WebPortfolio2023/"
@@ -46,7 +46,7 @@
         "name": "Basic Strategy Trainer",
         "time": "Nov 2022 - Dec 2022",
         "description": "This is an interactive endless quiz for practicing Casino Blackjack Basic Strategy. Mathematicians have analysed Casino Blackjack games and found the optimal moves to make given every possible hand. Players can memorise the hands to win more games. (Note: Basic Strategy does not give you enough of an advantage to win more games than you use; I do not advocate careless gambling, please do not gamble more than you can afford to lose).",
-        "technologies": "Rust, VSCode",
+        "technologies": "Rust",
         "imageURL": "src/assets/projects/BasicStrategyTrainerScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/BasicStrategyTrainer"
     },
@@ -62,7 +62,7 @@
         "name": "Matryoshka TicTacToe",
         "time": "Jul 2022",
         "description": "Prior to attending the Serious Game Design course at Hochschule Luzern, Switzerland, I was tasked with designing an improvement to Tic Tac Toe. My idea was to give players tokens of different weights, such that you can place a counter over the top of your opponent's smaller counters. This project is a demo that I used to test my idea with friends and family.",
-        "technologies": "Python, VSCode",
+        "technologies": "Python",
         "imageURL": "src/assets/projects/MatryoshkaTicTacToeScreenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/MatryoshkaTicTacToe"
     },
@@ -70,7 +70,7 @@
         "name": "WebPortfolio (2022)",
         "time": "Apr 2022 - May 2022",
         "description": "This was my first Portfolio Site, and was my first web project outside of a tutorial. Given the context, I am very happy with the site, but it is now very outdated given my experience with web development.",
-        "technologies": "HTML, CSS, JavaScript, VSCode",
+        "technologies": "HTML, CSS, JavaScript",
         "imageURL": "src/assets/projects/WebPortfolio2022Screenshot.jpg",
         "githubURL": "https://github.com/BenTaylor25/WebPortfolio",
         "siteURL": "https://bentaylor25.github.io/WebPortfolio/src/html/home.html"
