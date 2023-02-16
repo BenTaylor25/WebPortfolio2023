@@ -1,19 +1,19 @@
+@use '../utilities/variables' as VAR;
+
 $nav-font-col: white;
 $nav-hover-font-col: #40cc40;
-$nav-hover-bg-col: $nav-bg-col;   // invisible
+$nav-hover-bg-col: VAR.$nav-bg-col;   // invisible
 
-$nav-dropdown-bg-col: $nav-bg-col;
+$nav-dropdown-bg-col: VAR.$nav-bg-col;
 $nav-dropdown-font-col: $nav-font-col;
 $nav-dropdown-hover-font-col: $nav-hover-font-col;
-
-@use '../utilities/variables' as VAR;
 
 nav {
     z-index: 1;
     width: 100vw;
     top: 0;
     height: VAR.$nav-height;
-    background-color: $nav-bg-col;
+    background-color: VAR.$nav-bg-col;
     color: $nav-font-col;
     display: flex;
     position: fixed;

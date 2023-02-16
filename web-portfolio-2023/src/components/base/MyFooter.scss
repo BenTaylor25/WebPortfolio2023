@@ -1,7 +1,7 @@
 @use '../utilities/variables' as VAR;
 
 footer {
-    background: $footer-bg-col;
+    background: VAR.$footer-bg-col;
     height: VAR.$footer-height;
     @media screen and (orientation: portrait) {
         height: VAR.$footer-mobile-height;
