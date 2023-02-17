@@ -6,7 +6,7 @@ type Props = {
 export default function ReviewPage({page}: Props) {
 
     return (
-        <main>
+        <main className="reviews-page">
             
         </main>
     );

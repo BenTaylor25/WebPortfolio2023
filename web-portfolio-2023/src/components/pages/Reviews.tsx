@@ -6,7 +6,7 @@ import './Reviews.scss'
 export default function Reviews() {
 
     return (
-        <main className="reviews">
+        <main className="reviews-home">
             <h1>Reviews</h1>
             <p>In my free time, I enjoy reading books and playing video games.</p>
             <p>I also enjoy sharing my thoughts on books I've read and games I've played.</p>
