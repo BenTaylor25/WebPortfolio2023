@@ -8,6 +8,7 @@ import About from "./components/pages/About";
 import Work from "./components/pages/Work";
 import Projects from "./components/pages/Projects";
 import Reviews from "./components/pages/Reviews";
+import ReviewPage from "./components/pages/ReviewPage";
 import NotFound from "./components/pages/NotFound";
 import './App.scss'
 import './components/pages/_AllPages.scss'
@@ -27,6 +28,8 @@ export default function App() {
           <Route path="/WebPortfolio2023/work" element={<Work />}></Route>
           <Route path="/WebPortfolio2023/projects" element={<Projects />}></Route>
           <Route path="/WebPortfolio2023/reviews" element={<Reviews />}></Route>
+          <Route path="/WebPortfolio2023/reviews/books" element={<ReviewPage page="books" />}></Route>
+          <Route path="/WebPortfolio2023/reviews/games" element={<ReviewPage page="games" />}></Route>
           <Route path="*" element={<NotFound />}></Route>
         </Routes>
       </BrowserRouter>
