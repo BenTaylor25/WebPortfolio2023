@@ -35,6 +35,20 @@ export default function ReviewsPage({page}: Props) {
             />
 
             {
+                document.querySelector("input")?.id === "search-box" &&
+                document.querySelector("input")?.value !== '' ||
+
+                <>
+                    <h2>Random Review</h2>
+                    <p>(search '*' to view all)</p>
+                    <ReviewEntry {...reviews[rnd(reviews.length)]} />
+                </>
+            }
+
+            {
+                document.querySelector("input")?.id === "search-box" &&
+                document.querySelector("input")?.value !== '' &&
+
                 reviews.filter(review => {
                     const searchBar = document.querySelector("input");
                     let searchQuery = "";
@@ -42,10 +56,10 @@ export default function ReviewsPage({page}: Props) {
                         searchQuery = searchBar.value;
                     }
 
-                    return review.name.toLowerCase().includes(searchQuery.toLowerCase());
-                }).map(review => {
+                    return review.name.toLowerCase().includes(removeStar(searchQuery).toLowerCase());
+                }).map((review, index) => {
                     return (
-                        <ReviewEntry {...review} />
+                        <ReviewEntry key={index} {...review} />
                     );
                 })
             }
@@ -59,4 +73,17 @@ function capitalizeFirst(text: string): string {
     }
 
     return text[0].toUpperCase() + text.slice(1);
+}
+
+/**
+ * Return a random number between 0 and n-1 inclusive.
+ * 
+ * @param n 
+ */
+function rnd(n: number): number {
+    return Math.floor(Math.random() * n);
+}
+
+function removeStar(str: string): string {
+    return str.replace('*', '');
 }
