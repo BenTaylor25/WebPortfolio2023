@@ -1,3 +1,5 @@
+import Review from "../Reviews/Review";
+import { ReviewProps } from "../Reviews/Review";
 import "./ReviewsPage.scss"
 
 type Props = {
@@ -5,6 +7,15 @@ type Props = {
 }
 
 export default function ReviewPage({page}: Props) {
+
+    let reviews: ReviewProps[] = [
+        {
+            name: "Dark Souls", 
+            link: "https://en.wikipedia.org/wiki/Dark_Souls", 
+            rating: "9.5/10", 
+            review: "lorem ipsum dolor sit amet"
+        }
+    ]
 
     return (
         <main className="reviews-page">
@@ -14,6 +25,8 @@ export default function ReviewPage({page}: Props) {
                 type="text"
                 placeholder={`Search ${page}`} 
             />
+
+            <Review {...reviews[0]} />
         </main>
     );
 }
