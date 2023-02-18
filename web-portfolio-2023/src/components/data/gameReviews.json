@@ -5,5 +5,12 @@
         "rating": "9.5/10",
         "review": "lorem ipsum dolor sit amet",
         "link": "https://en.wikipedia.org/wiki/Dark_Souls"
+    },
+    {
+        "name": "Mass Effect (Trilogy)",
+        "author": "Bioware",
+        "rating": "9/10",
+        "review": "lorem ipsum dolor sit amet",
+        "link": "https://en.wikipedia.org/wiki/Mass_Effect"
     }
 ]

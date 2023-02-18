@@ -21,7 +21,13 @@ export default function ReviewsPage({page}: Props) {
                 placeholder={`Search ${page}`} 
             />
 
-            <ReviewEntry {...reviews[0]} />
+            {
+                reviews.map(review => {
+                    return (
+                        <ReviewEntry {...review} />
+                    );
+                })
+            }
         </main>
     );
 }
