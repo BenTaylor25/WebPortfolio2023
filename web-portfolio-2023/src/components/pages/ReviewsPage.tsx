@@ -14,8 +14,14 @@ type Props = {
 export default function ReviewsPage({page}: Props) {
     const reviews: ReviewProps[] = (page == "books") ? bookReviews : gameReviews;
 
-    const [searchQuery, setSearchQuery] = useState('');
-    const searchQueryRef = useRef();
+    const searchQueryRef = useRef('');
+
+    function handleChange() {
+        const searchInput = document.querySelector('input');
+        if (searchInput?.id === "search-box") {
+            searchQueryRef.current = searchInput.value;
+        }
+    }
 
     return (
         <main className="reviews-page">
@@ -23,9 +29,9 @@ export default function ReviewsPage({page}: Props) {
 
             <input
                 id="search-box"
-                ref={searchQueryRef}
                 type="text"
-                placeholder={`Search ${page}`} 
+                placeholder={`Search ${page}`}
+                onChange={handleChange}
             />
 
             {
@@ -36,7 +42,7 @@ export default function ReviewsPage({page}: Props) {
                         searchQuery = searchBar.value;
                     }
 
-                    return review.name.includes(searchQuery);
+                    return review.name.includes(searchQueryRef.current);
                 }).map(review => {
                     return (
                         <ReviewEntry {...review} />
