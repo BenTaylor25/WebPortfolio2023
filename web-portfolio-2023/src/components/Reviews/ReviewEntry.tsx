@@ -15,6 +15,7 @@ export default function ReviewEntry(props : ReviewProps) {
             <header>
                 <h1><a href={props.link}>{props.name}</a></h1>
                 <h2>{props.rating}</h2>
+                <h3>{props.author}</h3>
             </header>
             <p>
                 {props.review}
