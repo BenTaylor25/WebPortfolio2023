@@ -1,3 +1,5 @@
+import { useRef, useState } from "react";
+
 import ReviewEntry from "../Reviews/ReviewEntry";
 import { ReviewProps } from "../Reviews/ReviewEntry";
 import "./ReviewsPage.scss"
@@ -10,19 +12,32 @@ type Props = {
 }
 
 export default function ReviewsPage({page}: Props) {
-    let reviews: ReviewProps[] = (page == "books") ? bookReviews : gameReviews;
+    const reviews: ReviewProps[] = (page == "books") ? bookReviews : gameReviews;
+
+    const [searchQuery, setSearchQuery] = useState('');
+    const searchQueryRef = useRef();
 
     return (
         <main className="reviews-page">
             <h1>{capitalizeFirst(page)}</h1>
 
             <input
+                id="search-box"
+                ref={searchQueryRef}
                 type="text"
                 placeholder={`Search ${page}`} 
             />
 
             {
-                reviews.map(review => {
+                reviews.filter(review => {
+                    const searchBar = document.querySelector("input");
+                    let searchQuery = "";
+                    if (searchBar?.id === "search-box") {
+                        searchQuery = searchBar.value;
+                    }
+
+                    return review.name.includes(searchQuery);
+                }).map(review => {
                     return (
                         <ReviewEntry {...review} />
                     );
