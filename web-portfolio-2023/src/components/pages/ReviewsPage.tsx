@@ -40,7 +40,7 @@ export default function ReviewsPage({page}: Props) {
 
                 <>
                     <h2>Random Review</h2>
-                    <p>(search '*' to view all)</p>
+                    <p id="star-search-hint">(search '*' to view all)</p>
                     <ReviewEntry {...reviews[rnd(reviews.length)]} />
                 </>
             }
