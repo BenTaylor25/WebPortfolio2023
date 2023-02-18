@@ -12,5 +12,201 @@
         "rating": "9/10",
         "review": "lorem ipsum dolor sit amet",
         "link": "https://en.wikipedia.org/wiki/Mass_Effect"
+    },
+    {
+        "name": "Mass Effect Andromeda",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Dishonored",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Dishonored 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Outlast",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Outlast 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "The Stanley Parable",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "The Beginner's Guide",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Portal",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Portal 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Coffee Talk",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Our Life: Beginnings and Always",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Celeste",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Hellblade: Senua's Sacrifice",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "It Takes Two",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Unravel",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Unravel 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Life is Strange",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Life is Strange: Before the Storm",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Life is Strange 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "The Awesome Adventures of Captin Spirit",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Tell Me Why",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Spec Ops: The Line",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "SOMA",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Too",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Together",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Forever",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
+    },
+    {
+        "name": "Her Story",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "link": ""
     }
 ]
