@@ -2,9 +2,10 @@ import "./ReviewEntry.scss"
 
 export type ReviewProps = {
     name: string;
-    link: string;
+    author: string;
     rating: string;
     review: string;
+    link: string;
 }
 
 export default function ReviewEntry(props : ReviewProps) {

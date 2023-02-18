@@ -1,8 +1,9 @@
 [
     {
-        "name": "Book", 
-        "link": "https://en.wikipedia.org/wiki/Dark_Souls", 
-        "rating": "9.5/10", 
-        "review": "lorem ipsum dolor sit amet"
+        "name": "Beartown",
+        "author": "Fredrik Backman",
+        "rating": "/10",
+        "review": "lorem ipsum dolor sit amet",
+        "link": "https://www.goodreads.com/book/show/33413128-beartown"
     }
 ]
