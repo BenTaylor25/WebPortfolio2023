@@ -1,12 +1,12 @@
 import MenuBookIcon from '@mui/icons-material/MenuBook';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 
-import './Reviews.scss'
+import './ReviewsLanding.scss'
 
-export default function Reviews() {
+export default function ReviewsLanding() {
 
     return (
-        <main className="reviews-home">
+        <main className="reviews-landing">
             <h1>Reviews</h1>
             <p>In my free time, I enjoy reading books and playing video games.</p>
             <p>I also enjoy sharing my thoughts on books I've read and games I've played.</p>
