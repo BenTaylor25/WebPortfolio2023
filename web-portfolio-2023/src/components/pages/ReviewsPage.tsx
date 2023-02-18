@@ -2,20 +2,15 @@ import Review from "../Reviews/Review";
 import { ReviewProps } from "../Reviews/Review";
 import "./ReviewsPage.scss"
 
+import bookReviews from "../data/bookReviews.json"
+import gameReviews from "../data/gameReviews.json"
+
 type Props = {
     page: "books" | "games";
 }
 
-export default function ReviewPage({page}: Props) {
-
-    let reviews: ReviewProps[] = [
-        {
-            name: "Dark Souls", 
-            link: "https://en.wikipedia.org/wiki/Dark_Souls", 
-            rating: "9.5/10", 
-            review: "lorem ipsum dolor sit amet"
-        }
-    ]
+export default function ReviewsPage({page}: Props) {
+    let reviews: ReviewProps[] = (page == "books") ? bookReviews : gameReviews;
 
     return (
         <main className="reviews-page">
