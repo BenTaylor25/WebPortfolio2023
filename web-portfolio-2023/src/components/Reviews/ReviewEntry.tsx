@@ -1,4 +1,4 @@
-import "./Review.scss"
+import "./ReviewEntry.scss"
 
 export type ReviewProps = {
     name: string;
@@ -7,7 +7,7 @@ export type ReviewProps = {
     review: string;
 }
 
-export default function Review(props : ReviewProps) {
+export default function ReviewEntry(props : ReviewProps) {
 
     return (
         <article className="review">

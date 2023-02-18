@@ -1,5 +1,5 @@
-import Review from "../Reviews/Review";
-import { ReviewProps } from "../Reviews/Review";
+import ReviewEntry from "../Reviews/ReviewEntry";
+import { ReviewProps } from "../Reviews/ReviewEntry";
 import "./ReviewsPage.scss"
 
 import bookReviews from "../data/bookReviews.json"
@@ -21,7 +21,7 @@ export default function ReviewsPage({page}: Props) {
                 placeholder={`Search ${page}`} 
             />
 
-            <Review {...reviews[0]} />
+            <ReviewEntry {...reviews[0]} />
         </main>
     );
 }
