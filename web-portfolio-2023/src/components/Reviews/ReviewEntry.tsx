@@ -5,6 +5,7 @@ export type ReviewProps = {
     author: string;
     rating: string;
     review: string;
+    genre: string;
     link: string;
 }
 
@@ -20,6 +21,7 @@ export default function ReviewEntry(props : ReviewProps) {
             <p>
                 {props.review}
             </p>
+            <p>{props.genre}</p>
         </article>
     );
 }

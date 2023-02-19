@@ -4,6 +4,7 @@
         "author": "FromSoftware",
         "rating": "9.5/10",
         "review": "Dark Souls is a game that has not only touched the hearts of many fans, but has had a genuine impact on their lives as a whole. I am one of many that found the game in a difficult time and learned how to cope as a result. The gameplay is extremely harsh to the new player, which pushes many people away, but plays an essential role of the impact of Dark Souls. The lore is full of mysteries and deception; often the only way of finding answers is through drawing connections and seeing if it adds up.",
+        "genre": "Souls-like, Dark Fantasy, RPG",
         "link": "https://en.wikipedia.org/wiki/Dark_Souls"
     },
     {
@@ -11,6 +12,7 @@
         "author": "Bioware",
         "rating": "9/10",
         "review": "The world of Mass Effect is as detailed as it is expansive. The plot carries moments of tension, triumph, and tragedy, but it's the characters that really bring this series to life. With 20 companion characters, 15 romance options, and numerous other chararacters from all over the galaxy combined with the branching dialogue options, there is enough content to justify several playthroughs.",
+        "genre": "Sci-fi, RPG, Third-Person Shooter, Choices-matter",
         "link": "https://en.wikipedia.org/wiki/Mass_Effect"
     },
     {
@@ -18,6 +20,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -25,6 +28,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -32,6 +36,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -39,6 +44,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -46,6 +52,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -53,6 +60,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -60,6 +68,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -67,6 +76,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -74,6 +84,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -81,6 +92,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -88,6 +100,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -95,6 +108,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -102,6 +116,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -109,6 +124,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -116,6 +132,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -123,6 +140,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -130,6 +148,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -137,6 +156,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -144,6 +164,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -151,6 +172,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -158,6 +180,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -165,6 +188,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -172,6 +196,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -179,6 +204,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -186,6 +212,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -193,6 +220,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -200,6 +228,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     },
     {
@@ -207,6 +236,7 @@
         "author": "",
         "rating": "",
         "review": "",
+        "genre": "",
         "link": ""
     }
 ]
