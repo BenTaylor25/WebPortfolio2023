@@ -25,11 +25,11 @@
     },
     {
         "name": "Dishonored",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
+        "author": "Arkane Studios",
+        "rating": "8.5/10",
+        "review": "Dishonored has an interesting take on the stealth genre: getting caught does not fail the mission, but excessive aggression has an impact on the world. The level design and world building is incredible; each level has several different paths to choose from, which will show you different characters and interactions. Side missions are optional, but directly play into the main missions. The Knife of Dunwall and Brigmore Witches DLCs tell a story parallel to the base game, and the context added makes the whole package much more valuable.",
+        "genre": "Stealth, Steampunk, Action",
+        "link": "https://en.wikipedia.org/wiki/Dishonored"
     },
     {
         "name": "Dishonored 2",
