@@ -1,16 +1,46 @@
 
 main.reviews-landing {
+    display: flex;
+
+    &>p {
+        width: 40vw;
+        margin-left: 30vw;
+        text-align: left;
+
+        @media screen and (orientation: portrait) {
+            width: 90vw;
+            margin-left: 5vw;
+        }
+    }
+
+    .rating-key {
+        margin-top: 1rem;
+        align-self: center;
+        p {
+            text-align: left;
+        }
+    }
+
     #button-container {
         display: flex;
         margin-top: 5rem;
         width: 60vw;
         margin-left: 20vw;
 
+        @media screen and (orientation: portrait) {
+            margin-top: 2rem;
+            flex-direction: column;
+        }
+
         div {
             width: 100%;
             display: flex;
             justify-content: center;
-            
+
+            @media screen and (orientation: portrait) {
+                margin-bottom: 1rem;
+            }
+
             a {
                 text-decoration: none;
                 display: flex;
