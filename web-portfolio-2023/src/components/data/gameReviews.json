@@ -11,7 +11,7 @@
         "name": "Mass Effect (Trilogy)",
         "author": "Bioware",
         "rating": "9/10",
-        "review": "The world of Mass Effect is as detailed as it is expansive. The plot carries moments of tension, triumph, and tragedy, but it's the characters that really bring this series to life. With 20 companion characters, 15 romance options, and numerous other chararacters from all over the galaxy combined with the branching dialogue options, there is enough content to justify several playthroughs. I played the legacy versions before Mass Effect Legendary was released, and was very impressed with the upgrades the that the remaster brought.",
+        "review": "The world of Mass Effect is as detailed as it is expansive. The plot carries moments of tension, triumph, and tragedy, but it's the characters that really bring this series to life. With 20 companion characters, 15 romance options, and numerous other characters from all over the galaxy combined with the branching dialogue options, there is enough content to justify several playthroughs. I played the legacy versions before Mass Effect Legendary was released, and was very impressed with the upgrades the that the remaster brought.",
         "genre": "Sci-fi, RPG, Third-Person Shooter, Choices-matter",
         "link": "https://en.wikipedia.org/wiki/Mass_Effect"
     },
@@ -33,11 +33,11 @@
     },
     {
         "name": "Dishonored 2",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
+        "author": "Arkane Studios",
+        "rating": "7/10",
+        "review": "Dishonored 2 takes place 15 years after its predecessor. The sequel is much more visually detailed, the world is more reactive, and there are more gameplay tools available (especially for non-lethal players). The chaos system has been modified so that stealth and aggression are both measured. Unfortunately this is where I think the complements of Dishonored 2 end; I found the storyline to be less captivating than the original, and that the graphical upgrades resulted in the unique style being largely lost. I'm also including Dishonored: Death of the Outsider in this review - largely because of the parallels with the DLC of the first game. I feel conflicted about DotO; on the one hand it answers a lot of questions raised through the series, on the other hand it may have been better for such questions to remain unsolved. Overall I would recommend Dishonored 2 and DotO to fans of the original, though I do not hold the sequel is quite so high regard.",
+        "genre": "Stealth, Steampunk, Action",
+        "link": "https://en.wikipedia.org/wiki/Dishonored_2"
     },
     {
         "name": "Outlast",
