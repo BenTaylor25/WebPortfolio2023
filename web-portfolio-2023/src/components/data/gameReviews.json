@@ -104,20 +104,12 @@
         "link": "https://gbpatch.itch.io/our-life"
     },
     {
-        "name": "Celeste",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
         "name": "Hellblade: Senua's Sacrifice",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
+        "author": "Ninja Theory",
+        "rating": "7.5/10",
+        "review": "Hellblade: Senua's Sacrifice is a Story-rich, Walking Simulator, Sword Combat game with Puzzle sections and a Norse setting. That's an eclectic style. The protagonist Senua suffers from Psychosis which offers a unique dynamic to the combat system (both genuine and false warnings from voices), as well as raising awareness for the disorder. The quality of the game is impressively high, not just graphically, but in terms of audio, puzzle creation, level design, and especially combat. The combat is extremely polished and very satisfying; it leaves me excited for the sequel. My biggest criticism of the game comes down to replayability; I played through Senua's Sacrifice twice (once blind, once to listen to all of the lore collectables and get all of the achievements); the first playthrough was brilliant, but the second didn't seem to have many new details to keep me hooked.",
+        "genre": "Sword Combat, Walking Simulator, Puzzle, Norse Mythology",
+        "link": "https://en.wikipedia.org/wiki/Hellblade:_Senua%27s_Sacrifice"
     },
     {
         "name": "It Takes Two",
