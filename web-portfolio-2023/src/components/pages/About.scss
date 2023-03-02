@@ -1,5 +1,12 @@
 
 main.about {
+    img {
+        object-fit: cover;
+        object-position: 50% 55%;
+        max-height: 40rem;
+        max-width: 40rem;
+    }
+
     &>section {
         display: grid;
         // flex-direction: column;
