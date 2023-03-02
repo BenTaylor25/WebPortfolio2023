@@ -1,0 +1,112 @@
+{
+        "name": "Life is Strange",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Life is Strange: Before the Storm",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Life is Strange 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "The Awesome Adventures of Captain Spirit",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Tell Me Why",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Spec Ops: The Line",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "SOMA",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Too",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Together",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "We Were Here Forever",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Her Story",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Unravel",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    },
+    {
+        "name": "Unravel 2",
+        "author": "",
+        "rating": "",
+        "review": "",
+        "genre": "",
+        "link": ""
+    }
