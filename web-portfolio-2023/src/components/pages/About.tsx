@@ -135,7 +135,7 @@ export default function About() {
             <section className='other'>
                 <img
                     src="src/assets/about/presentation.jpg"
-                    alt="image of Ben giving presentation PAL/other?"
+                    alt="image of Ben giving presentation PAL"
                 />
                 <div>
                     <h1>Other</h1>
