@@ -128,8 +128,8 @@ export default function About() {
                     <p>See my full education background on <a href="https://www.linkedin.com/in/bentaylor25">LinkedIn</a></p>
                 </div>
                 <img
-                    src=""
-                    alt="[to be added]"
+                    src="assets/about/whiteboard.jpg"
+                    alt="image of Ben planning a project on a whiteboard"
                 />   {/* Replace with image of graduation in 2025? */}
             </section>
             <section className='other'>
