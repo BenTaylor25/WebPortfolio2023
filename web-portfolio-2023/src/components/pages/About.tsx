@@ -23,13 +23,13 @@ export default function About() {
                     </p>
                 </div>
                 <img
-                    src="public/assets/hillpicture.jpg"
+                    src="assets/hillpicture.jpg"
                     alt="image of Ben sat on a hill with his dog next to him"
                 />
             </section>
             <section className='skills'>
                 <img
-                    src="public/assets/about/laptop.jpg"
+                    src="assets/about/laptop.jpg"
                     alt="image of Ben sat working on a laptop"
                 />
                 <div>
@@ -134,7 +134,7 @@ export default function About() {
             </section>
             <section className='other'>
                 <img
-                    src="public/assets/about/presentation.jpg"
+                    src="assets/about/presentation.jpg"
                     alt="image of Ben giving presentation PAL"
                 />
                 <div>

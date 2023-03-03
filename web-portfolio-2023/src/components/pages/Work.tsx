@@ -4,7 +4,7 @@ export default function Work() {
     return (
         <main className="work">
             <section className="entry">
-                <img src="public/assets/icon.png" alt="Ben Icon" />
+                <img src="assets/icon.png" alt="Ben Icon" />
                 <div className="text">
                     <h1>Freelance Web Developer</h1>
                     <h2>May 2022 - present</h2>
@@ -20,7 +20,7 @@ export default function Work() {
 
             <section className="entry">
                 <a className="image" href="https://brookes.ac.uk">
-                    <img src="public/assets/work/obu.png" alt="Oxford Brookes University Logo" />
+                    <img src="assets/work/obu.png" alt="Oxford Brookes University Logo" />
                 </a>
                 <div className="text">
                     <h1>PAL Lead Tutor - Oxford Brookes University</h1>
@@ -48,7 +48,7 @@ export default function Work() {
 
             <section className="entry">
                 <a className="image" href="https://digivue.co.uk">
-                    <img src="public/assets/work/digivue.jpg" alt="DigiVue Logo" />
+                    <img src="assets/work/digivue.jpg" alt="DigiVue Logo" />
                 </a>
                 <div className="text">
                     <h1>Full Stack Web Developer - DigiVue</h1>
@@ -74,7 +74,7 @@ export default function Work() {
 
             <section className="entry">
                 <a className="image" href="https://codeninjas.co.uk/oxford-oxf-uk">
-                    <img src="public/assets/work/codeninjas.jpg" alt="Code Ninjas Logo" />
+                    <img src="assets/work/codeninjas.jpg" alt="Code Ninjas Logo" />
                 </a>
                 <div className="text">
                     <h1>Computing Tutor - Code Ninjas Oxford</h1>
@@ -89,7 +89,7 @@ export default function Work() {
 
             <section className="entry">
                 <a className="image" href="https://fuze.co.uk">
-                    <img src="public/assets/work/fuze.png" alt="Fuze Technologies Logo" />
+                    <img src="assets/work/fuze.png" alt="Fuze Technologies Logo" />
                 </a>
                 <div className="text">
                     <h1>Programming Tutor - Fuze Technologies</h1>
