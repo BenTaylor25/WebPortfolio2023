@@ -29,8 +29,8 @@ export default function About() {
             </section>
             <section className='skills'>
                 <img
-                    src=""
-                    alt="[to be added] image of Ben sat working on a laptop"
+                    src="public/assets/about/laptop.jpg"
+                    alt="image of Ben sat working on a laptop"
                 />
                 <div>
                     <h1>Skills</h1>
