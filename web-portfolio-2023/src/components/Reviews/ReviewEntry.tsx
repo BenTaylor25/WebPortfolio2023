@@ -14,7 +14,7 @@ export default function ReviewEntry(props : ReviewProps) {
     return (
         <article className="review">
             <header>
-                <h1><a href={props.link}>{props.name}</a></h1>
+                <h1><a href={props.link} target="_blank">{props.name}</a></h1>
                 <h2>{props.rating}</h2>
                 <h3>{props.author}</h3>
             </header>
