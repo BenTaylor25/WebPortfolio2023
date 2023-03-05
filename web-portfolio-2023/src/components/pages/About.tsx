@@ -10,7 +10,7 @@ export default function About() {
                     <p>
                         Hi, my name is Ben and I'm a Computer Science student at Oxford Brookes.
                         I love bringing ideas and designs to life through problem solving and
-                        code, and am keen to pursuit a career in Desktop-, Web-, Mobile-,
+                        code, and am keen to pursue a career in Desktop-, Web-, Mobile-,
                         or Game Development after I graduate.
                     </p>
                     <br />

@@ -118,5 +118,13 @@
         "review": "It Takes Two is a very charming splitscreen Co-op Puzzle game. The two characters have access to different mechanics which change over the several chapters. This provides a great deal of variety and encourages a second playthrough to experience the other abilities. The story is fairly lighthearted but has some heartwarming sections.",
         "genre": "Co-op, Puzzle, Platformer",
         "link": "https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)"
+    },
+    {
+        "name": "Life is Strange",
+        "author": "Dontnod Entertainment",
+        "rating": "6.5/10",
+        "review": "It is not unusual for players in Choices Matter games to make a choice, then reload a save and make a different choice. Life is Strange 1 takes this idea and incorporates it into the mechanics of the game. The story explanation is time travel, which I was initially skeptical about because I had never encountered a satisfying depiction of the concept. Life is Strange makes no attempt to explain how time travel works, which I actually really appreciate, as it means the story doesn't inadvertently contradict itself. The characters are just as clueless about its nature as the player. During some scenes, the power becomes unavailable. Some have criticised this, as it can come across as a lazy way to push the plot forward. However if you consider the story as a whole, you'll notice that a lot of the situations that the ability leads to cause the main character to face something that helps her to develop as a person; that is, the power seems to exist to test her, rather than to give her what she wants but only sometimes.",
+        "genre": "Slice of Life, Choices Matter, Puzzle, Horror",
+        "link": "https://en.wikipedia.org/wiki/Life_Is_Strange_(video_game)"
     }
 ]
