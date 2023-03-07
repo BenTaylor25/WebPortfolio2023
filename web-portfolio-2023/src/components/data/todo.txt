@@ -1,13 +1,6 @@
 
     
-    {
-        "name": "Life is Strange 2",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
+    
     {
         "name": "The Awesome Adventures of Captain Spirit",
         "author": "",
