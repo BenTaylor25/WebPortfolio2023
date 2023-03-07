@@ -1,14 +1,4 @@
 
-    
-    
-    {
-        "name": "The Awesome Adventures of Captain Spirit",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
     {
         "name": "Tell Me Why",
         "author": "",
