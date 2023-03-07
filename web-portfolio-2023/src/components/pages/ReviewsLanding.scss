@@ -2,10 +2,8 @@
 main.reviews-landing {
     display: flex;
 
-    &>p {
-        width: 40vw;
-        margin-left: 30vw;
-        text-align: left;
+    #subheader {
+        justify-self: center;
 
         @media screen and (orientation: portrait) {
             width: 90vw;

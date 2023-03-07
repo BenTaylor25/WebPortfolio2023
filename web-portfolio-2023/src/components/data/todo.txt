@@ -1,12 +1,5 @@
 
-    {
-        "name": "Life is Strange: Before the Storm",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
+    
     {
         "name": "Life is Strange 2",
         "author": "",
