@@ -1,13 +1,5 @@
 
     {
-        "name": "Tell Me Why",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
         "name": "Spec Ops: The Line",
         "author": "",
         "rating": "",
