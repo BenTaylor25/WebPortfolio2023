@@ -1,13 +1,5 @@
 
     {
-        "name": "Spec Ops: The Line",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
         "name": "SOMA",
         "author": "",
         "rating": "",
