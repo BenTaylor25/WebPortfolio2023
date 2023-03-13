@@ -67,6 +67,15 @@
         "githubURL": "https://github.com/BenTaylor25/MatryoshkaTicTacToe"
     },
     {
+        "name": "Bold First Half",
+        "time": "Mar 2023",
+        "description": "This is a very simple web project built in a few hours that converts text into a format that some find to be easier to read. Most words can be read from just the first few letters, so by emphasising the first half of every word, it can allow your brain to skip non-essential letters and read quicker.",
+        "technologies": "HTML, SCSS, TypeScript",
+        "imageURL": "assets/projects/BoldFirstHalfScreenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/BoldFirstHalf",
+        "siteURL": "https://bentaylor25.github.io/BoldFirstHalf/"
+    },
+    {
         "name": "WebPortfolio (2022)",
         "time": "Apr 2022 - May 2022",
         "description": "This was my first Portfolio Site, and was my first web project outside of a tutorial. Given the context, I am very happy with the site, but it is now very outdated given my experience with web development.",
