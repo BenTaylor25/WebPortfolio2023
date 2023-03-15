@@ -47,14 +47,7 @@
         "genre": "",
         "link": ""
     },
-    {
-        "name": "Unravel",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
+    
     {
         "name": "Unravel 2",
         "author": "",
