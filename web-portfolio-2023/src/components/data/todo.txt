@@ -40,15 +40,6 @@
         "link": ""
     },
     {
-        "name": "Her Story",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    
-    {
         "name": "Unravel 2",
         "author": "",
         "rating": "",

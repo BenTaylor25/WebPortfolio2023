@@ -174,5 +174,13 @@
         "review": "Unravel is a beautiful singleplayer puzzle platformer that explores the life of an unnamed family. You play as toy doll made of yarn, and you're only able to move so far from your previous checkpoint otherwise you will completely unravel yourself. You'll need to use... yourself... to swing from tree branches and make trampolines to jump higher. The story is very cryptic and I enjoyed piecing it together.",
         "genre": "Puzzle, 2D Platformer",
         "link": "https://en.wikipedia.org/wiki/Unravel_(video_game)"
+    },
+    {
+        "name": "Her Story",
+        "author": "Sam Barlow",
+        "rating": "6.5/10",
+        "review": "Her Story is a unique detective game. A woman has been interviewed for several days, and the footage has been split into short clips and put into a database. Each clip has tags based on what is spoken about, and you can query the database in search of specific clips. A search will only yield a few results, so you need to be specific in order to find the information you need. The game has no distinct progression or ending, it's just a case of how much time you are willing to spend investigating.",
+        "genre": "Detective, Murder Mystery",
+        "link": "https://en.wikipedia.org/wiki/Her_Story_(video_game)"
     }
 ]
