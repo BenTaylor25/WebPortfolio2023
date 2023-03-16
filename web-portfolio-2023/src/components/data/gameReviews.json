@@ -171,16 +171,24 @@
         "name": "Unravel",
         "author": "Coldwood Interactive",
         "rating": "6/10",
-        "review": "Unravel is a beautiful singleplayer puzzle platformer that explores the life of an unnamed family. You play as toy doll made of yarn, and you're only able to move so far from your previous checkpoint otherwise you will completely unravel yourself. You'll need to use... yourself... to swing from tree branches and make trampolines to jump higher. The story is very cryptic and I enjoyed piecing it together.",
+        "review": "Unravel is a beautiful single-player puzzle platformer that explores the life of an unnamed family. You play as toy doll made of yarn, and you're only able to move so far from your previous checkpoint otherwise you will completely unravel yourself. You'll need to use... yourself... to swing from tree branches and make trampolines to jump higher. The story is very cryptic and I enjoyed piecing it together.",
         "genre": "Puzzle, 2D Platformer",
         "link": "https://en.wikipedia.org/wiki/Unravel_(video_game)"
     },
     {
         "name": "Her Story",
         "author": "Sam Barlow",
-        "rating": "6.5/10",
+        "rating": "6/10",
         "review": "Her Story is a unique detective game. A woman has been interviewed for several days, and the footage has been split into short clips and put into a database. Each clip has tags based on what is spoken about, and you can query the database in search of specific clips. A search will only yield a few results, so you need to be specific in order to find the information you need. The game has no distinct progression or ending, it's just a case of how much time you are willing to spend investigating.",
         "genre": "Detective, Murder Mystery",
         "link": "https://en.wikipedia.org/wiki/Her_Story_(video_game)"
+    },
+    {
+        "name": "Doki Doki Literature Club",
+        "author": "Team Salvato",
+        "rating": "6/10",
+        "review": "This game is not what it looks like... It takes the appearance of an Anime Dating Sim, then when you let your guard down it brings in topics such as anxiety, depression, suicide, self-harm, and more. DDLC is the only game I've ever played where deleting files in the game directory is a genuine gameplay interaction. I don't want to say much more as I feel that would ruin the game's effect. There is no sexually explicit content, but please heed the warning on the store page.",
+        "genre": "Visual Novel, Horror",
+        "link": "https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!"
     }
 ]
