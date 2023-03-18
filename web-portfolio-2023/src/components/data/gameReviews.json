@@ -190,5 +190,13 @@
         "review": "This game is not what it looks like... It takes the appearance of an Anime Dating Sim, then when you let your guard down it brings in topics such as anxiety, depression, suicide, self-harm, and more. DDLC is the only game I've ever played where deleting files in the game directory is a genuine gameplay interaction. I don't want to say much more as I feel that would ruin the game's effect. There is no sexually explicit content, but please heed the warning on the store page.",
         "genre": "Visual Novel, Horror",
         "link": "https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!"
+    },
+    {
+        "name": "SOMA",
+        "author": "Frictional Games",
+        "rating": "7.5/10",
+        "review": "SOMA is a game about Digital Consciousness. Can an AI be considered sentient? Can an AI believe it's human? and more thought-provoking questions on the topic. The characters in SOMA really help to put the questions in context. The game also has a good amount of lore that can only be found if you go looking for it.",
+        "genre": "Horror, Psychological Horror",
+        "link": "https://en.wikipedia.org/wiki/Soma_(video_game)"
     }
 ]

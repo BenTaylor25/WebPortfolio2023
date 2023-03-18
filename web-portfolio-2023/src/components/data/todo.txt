@@ -1,13 +1,5 @@
 
     {
-        "name": "SOMA",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
         "name": "We Were Here",
         "author": "",
         "rating": "",
