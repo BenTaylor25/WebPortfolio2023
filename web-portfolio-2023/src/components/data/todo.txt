@@ -1,37 +1,5 @@
 
     {
-        "name": "We Were Here",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
-        "name": "We Were Here Too",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
-        "name": "We Were Here Together",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
-        "name": "We Were Here Forever",
-        "author": "",
-        "rating": "",
-        "review": "",
-        "genre": "",
-        "link": ""
-    },
-    {
         "name": "Unravel 2",
         "author": "",
         "rating": "",

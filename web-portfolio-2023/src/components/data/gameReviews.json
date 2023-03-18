@@ -198,5 +198,13 @@
         "review": "SOMA is a game about Digital Consciousness. Can an AI be considered sentient? Can an AI believe it's human? and more thought-provoking questions on the topic. The characters in SOMA really help to put the questions in context. The game also has a good amount of lore that can only be found if you go looking for it.",
         "genre": "Horror, Psychological Horror",
         "link": "https://en.wikipedia.org/wiki/Soma_(video_game)"
+    },
+    {
+        "name": "We Were Here (Series)",
+        "author": "Total Mayhem Games",
+        "rating": "7/10",
+        "review": "We Were Here is a series of escape-room-like puzzle games. I'm rating them as one because - although the later entries make improvements over the earlier ones - they follow the same formula, and I don't think I have enough to say about a given one. I don't want that to sound like a criticism however, these games are amazing. They require teamwork, communication, problem-solving, and attention-to-detail. If you've ever been to an escape room, these games are like a world of them. The lore is very cryptic; every entry gives more information but makes you ask more questions. I wouldn't consider the games to be scary at all, but there is a light horror aspect as well.",
+        "genre": "Co-op, Puzzle, Escape Room",
+        "link": "https://en.wikipedia.org/wiki/We_Were_Here_(series)"
     }
 ]
