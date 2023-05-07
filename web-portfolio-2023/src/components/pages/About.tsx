@@ -125,7 +125,7 @@ export default function About() {
                             </tr>
                         </table>
                     </section>
-                    <p>See my full education background on <a href="https://www.linkedin.com/in/bentaylor25">LinkedIn</a></p>
+                    <p><a href="/WebPortfolio2023/education">See my full education background</a></p>
                 </div>
                 <img
                     src="assets/about/whiteboard.jpg"
