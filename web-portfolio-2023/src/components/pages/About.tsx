@@ -83,7 +83,7 @@ export default function About() {
                                 <td>Information Systems</td>
                                 <td>A+ (93%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Object Oriented Programming</td>
                                 <td>A+ (98%)</td>
                             </tr>
@@ -95,11 +95,11 @@ export default function About() {
                                 <td>Mathematics for Computing</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Software Development in C and C++</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Data Structures and Algorithms</td>
                                 <td>A+ (100%)</td>
                             </tr>
@@ -115,11 +115,11 @@ export default function About() {
                                 <td>Foundations of Computation</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Databases</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Web App Development</td>
                                 <td>[Jan23-May23]</td>
                             </tr>
