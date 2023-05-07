@@ -1,4 +1,4 @@
-import "./ReviewEntry.scss"
+import "./ReviewEntry.scss";
 
 export type ReviewProps = {
     name: string;

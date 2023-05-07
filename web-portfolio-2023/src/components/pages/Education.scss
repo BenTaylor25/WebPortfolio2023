@@ -1,0 +1,19 @@
+
+main.Education {
+    section#education-institution {
+        h1, h2 {
+            font-size: 2.25rem;
+        }
+
+        section#education-modules {
+            display: grid;
+
+            article.module {
+                display: flex;
+                flex-direction: column;
+                max-width: 50%;
+                border: 1px solid white;
+            }
+        }
+    }
+}
