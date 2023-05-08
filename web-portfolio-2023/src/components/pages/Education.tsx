@@ -1,7 +1,6 @@
 import './Education.scss';
 
 import EducationModule from '../Education/EducationModule';
-import { ModuleProps } from '../Education/EducationModule';
 
 import modules from '../data/educationModules.json';
 
