@@ -3,27 +3,9 @@ import './Education.scss';
 import EducationModule from '../Education/EducationModule';
 import { ModuleProps } from '../Education/EducationModule';
 
+import modules from '../data/educationModules.json';
+
 export default function Education() {
-    const test: ModuleProps[] = [
-        {
-            name: "programming",
-            date: "sep2021-dec2021",
-            grade: "A+",
-            text: "I learnt programming",
-        },
-        {
-            name: "networking",
-            date: "sep2021-dec2021",
-            grade: "A",
-            text: "networking",
-        },
-        {
-            name: "systems",
-            date: "sep2021-dec2021",
-            grade: "A+",
-            text: "systems",
-        }
-    ];
 
     return (
         <main className="Education">
@@ -32,11 +14,10 @@ export default function Education() {
                 <h2>BSc Computer Science</h2>
                 <section id="education-modules">
                     {
-                        test.map(t => {
+                        modules.brookes.map(t => {
                             return <EducationModule {...t} />;
                         })
                     }
-                    {/* <EducationModule {...test} /> */}
                 </section>
             </section>
         </main>
