@@ -13,8 +13,8 @@ export default function Education() {
                 <h2>BSc Computer Science</h2>
                 <section id="education-modules">
                     {
-                        modules.brookes.map(t => {
-                            return <EducationModule {...t} />;
+                        modules.brookes.map(bm => {
+                            return <EducationModule {...bm} />;
                         })
                     }
                 </section>
