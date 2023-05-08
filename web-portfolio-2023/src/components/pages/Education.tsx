@@ -4,11 +4,26 @@ import EducationModule from '../Education/EducationModule';
 import { ModuleProps } from '../Education/EducationModule';
 
 export default function Education() {
-    let test: ModuleProps = {
-        name: "programming",
-        grade: "A+",
-        text: "I learnt programming",
-    }
+    const test: ModuleProps[] = [
+        {
+            name: "programming",
+            date: "sep2021-dec2021",
+            grade: "A+",
+            text: "I learnt programming",
+        },
+        {
+            name: "networking",
+            date: "sep2021-dec2021",
+            grade: "A",
+            text: "networking",
+        },
+        {
+            name: "systems",
+            date: "sep2021-dec2021",
+            grade: "A+",
+            text: "systems",
+        }
+    ];
 
     return (
         <main className="Education">
@@ -16,7 +31,12 @@ export default function Education() {
                 <h1>Oxford Brookes University (2021-2025)</h1>
                 <h2>BSc Computer Science</h2>
                 <section id="education-modules">
-                    <EducationModule {...test} />
+                    {
+                        test.map(t => {
+                            return <EducationModule {...t} />;
+                        })
+                    }
+                    {/* <EducationModule {...test} /> */}
                 </section>
             </section>
         </main>
