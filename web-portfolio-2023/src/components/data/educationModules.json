@@ -8,9 +8,9 @@
         },
         {
             "name": "Basic Communications and PC Networking",
-            "date": "sep2021-dec2021",
+            "date": "Sep2021-Dec2021",
             "grade": "A (70%)",
-            "text": ""
+            "text": "Networking was a very content-heavy module that covered the TCP/IP and OSI models in great detail. We did a small amount of physcial networking, but mostly using the Packet Tracer simulation software."
         },
         {
             "name": "Systems",
