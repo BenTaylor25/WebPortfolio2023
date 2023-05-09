@@ -11,11 +11,12 @@ main.Education {
 
 
         h1, h2 {
-            font-size: 2.25rem;
+            font-size: 2rem;
         }
 
         section#education-modules {
             margin-top: 2rem;
+            margin-bottom: 3rem;
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
         }

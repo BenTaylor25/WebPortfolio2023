@@ -17,6 +17,30 @@
             "date": "Sep2021-Dec2021",
             "grade": "A+ (77%)",
             "text": "This module was about how computers work. We covered binary, boolean algebra, and logic gates which I was already very familiar with, as well as some simple Assembly Language and Operating System concepts."
+        },
+        {
+            "name": "Information Systems",
+            "date": "Jan2022-May2022",
+            "grade": "A+ (93%)",
+            "text": ""
+        },
+        {
+            "name": "Object-Oriented Programming",
+            "date": "Jan2022-May2022",
+            "grade": "A+ (98%)",
+            "text": ""
+        },
+        {
+            "name": "DevOps",
+            "date": "Jan2022-May2022",
+            "grade": "A+ (84%)",
+            "text": ""
+        },
+        {
+            "name": "Mathematics for Computing",
+            "date": "Jan2022-May2022",
+            "grade": "A+ (100%)",
+            "text": ""
         }
     ]
 }
