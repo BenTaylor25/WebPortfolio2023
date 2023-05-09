@@ -1,21 +1,21 @@
 {
     "brookes": [
         {
-            "name": "Programming",
-            "date": "sep2021-dec2021",
-            "grade": "A+",
-            "text": "I learnt programming"
+            "name": "Problem Solving and Programming",
+            "date": "Sep2021-Dec2021",
+            "grade": "A+ (96%)",
+            "text": "This module was an introduction to programming based in Python. I found this module to be remarkably easy because I already had 7 years of experince using the language by this time."
         },
         {
-            "name": "Networking",
+            "name": "Basic Communications and PC Networking",
             "date": "sep2021-dec2021",
-            "grade": "A",
-            "text": "networking"
+            "grade": "A (70%)",
+            "text": ""
         },
         {
             "name": "Systems",
             "date": "sep2021-dec2021",
-            "grade": "A+",
+            "grade": "A+ (77%)",
             "text": "systems"
         }
     ]

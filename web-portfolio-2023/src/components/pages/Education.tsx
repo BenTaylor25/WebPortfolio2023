@@ -20,5 +20,5 @@ export default function Education() {
                 </section>
             </section>
         </main>
-    )
+    );
 }
