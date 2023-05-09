@@ -13,10 +13,10 @@
             "text": "Networking was a very content-heavy module that covered the TCP/IP and OSI models in great detail. We did a small amount of physcial networking, but mostly using the Packet Tracer simulation software."
         },
         {
-            "name": "Systems",
-            "date": "sep2021-dec2021",
+            "name": "Foundations of Computer Systems",
+            "date": "Sep2021-Dec2021",
             "grade": "A+ (77%)",
-            "text": "systems"
+            "text": "This module was about how computers work. We covered binary, boolean algebra, and logic gates which I was already very familiar with, as well as some simple Assembly Language and Operating System concepts."
         }
     ]
 }
