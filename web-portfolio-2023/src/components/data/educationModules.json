@@ -28,7 +28,7 @@
             "name": "Object-Oriented Programming",
             "date": "Jan2022-May2022",
             "grade": "A+ (98%)",
-            "text": ""
+            "text": "This module covered the basic concepts of OOP such as Interfaces, Abstract Classes, Inheritance, and Polymorphism. We also looked at some basic UML and class design."
         },
         {
             "name": "DevOps",
