@@ -41,6 +41,48 @@
             "date": "Jan2022-May2022",
             "grade": "A+ (100%)",
             "text": "The purpose of this module was to catch everyone up to speed with mathematical concepts used elsewhere in the degree. My experience with A-Level Maths more than prepared me for the first several weeks, so I spent that time learning content for the last few weeks: Combinatorics and PERT Charts."
+        },
+        {
+            "name": "Software Development in C/C++",
+            "date": "Sep2022-Dec2022",
+            "grade": "A+ (100%)",
+            "text": ""
+        },
+        {
+            "name": "Data Structures and Algorithms",
+            "date": "Sep2022-Dec2022",
+            "grade": "A+ (100%)",
+            "text": ""
+        },
+        {
+            "name": "Foundations of Security",
+            "date": "Sep2022-Dec2022",
+            "grade": "A (73%)",
+            "text": ""
+        },
+        {
+            "name": "Innovative Product Development",
+            "date": "Sep2022-May2023",
+            "grade": "[pending]",
+            "text": ""
+        },
+        {
+            "name": "Foundations of Computation",
+            "date": "Jan2023-May2023",
+            "grade": "[pending]",
+            "text": ""
+        },
+        {
+            "name": "Databases",
+            "date": "Jan2023-May2023",
+            "grade": "[pending]",
+            "text": ""
+        },
+        {
+            "name": "Web App Development",
+            "date": "Jan2023-May2023",
+            "grade": "[pending]",
+            "text": ""
         }
     ]
 }
