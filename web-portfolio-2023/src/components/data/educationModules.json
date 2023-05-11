@@ -58,7 +58,7 @@
             "name": "Foundations of Security",
             "date": "Sep2022-Dec2022",
             "grade": "A (73%)",
-            "text": ""
+            "text": "This module introduced some basic security concepts, such as SQL Injection, Arc Injection, Canonical Representation, Integer Overflow. I do not consider myself a Cyber Security expert, but I would say I am more aware of system vulnerabilities and risk prevention than average developers."
         },
         {
             "name": "Innovative Product Development",
