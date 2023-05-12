@@ -64,7 +64,7 @@
             "name": "Innovative Product Development",
             "date": "Sep2022-May2023",
             "grade": "[pending]",
-            "text": ""
+            "text": "This module was a group project. Myself and 4 others were tasked with coming up with a creative idea and developing it using SCRUM. Our idea was a system that would allow tenants in shared housing to split the cost of shared items based on how much each person uses. We used Flutter, Diesel, Rocket, and Postgres. My main role was calling the backend from the Dart frontend."
         },
         {
             "name": "Foundations of Computation",
