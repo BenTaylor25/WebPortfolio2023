@@ -84,5 +84,31 @@
             "grade": "[pending]",
             "text": "This module was tough, so I was glad I had experience with building Websites beforehand. We covered HTML, CSS, JavaScript, Python, Flask, Jinja2, SQLite, AJAX, User Sessions, SQL, Accessibility, and Responsive Design. For the coursework, we were allowed to use TypeScript and SCSS, and I opted to."
         }
+    ],
+    "alevel": [
+        {
+            "name": "Computer Science",
+            "date": "Sep2019-Jun2021",
+            "grade": "A*",
+            "text": ""
+        },
+        {
+            "name": "Mathematics",
+            "date": "Sep2019-Jun2021",
+            "grade": "B",
+            "text": ""
+        },
+        {
+            "name": "Further Mathematics (AS)",
+            "date": "Sep2019-Jan2021",
+            "grade": "C",
+            "text": ""
+        },
+        {
+            "name": "History (AS)",
+            "date": "Sep2019-Jun2020",
+            "grade": "C",
+            "text": ""
+        }
     ]
 }

@@ -19,6 +19,17 @@ export default function Education() {
                     }
                 </section>
             </section>
+            <section id="education-institution">
+                <h1>Wheatley Park Sixth Form (2019-2021)</h1>
+                <h2>AS and A-Level</h2>
+                <section id="education-modules">
+                    {
+                        modules.alevel.map(al => {
+                            return <EducationModule {...al} />
+                        })
+                    }
+                </section>
+            </section>
         </main>
     );
 }
