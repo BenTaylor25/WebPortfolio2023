@@ -70,7 +70,7 @@
             "name": "Foundations of Computation",
             "date": "Jan2023-May2023",
             "grade": "[pending]",
-            "text": ""
+            "text": "This has been one of my favourite modules so far. DFAs, NDFAs, Formal Languages and Grammars, Pushdown Automata, Turing Machines, and Lambda Calculus; the building blocks that make modern computers possible. Some of the content has been simplified from the formal papers, but I still found it fascinating."
         },
         {
             "name": "Databases",
