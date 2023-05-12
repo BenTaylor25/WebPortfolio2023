@@ -76,7 +76,7 @@
             "name": "Databases",
             "date": "Jan2023-May2023",
             "grade": "[pending]",
-            "text": ""
+            "text": "This module explored data representation in XML, JSON, and CSV, as well as transformations with XSLT, and Relational Database design / implementation in MySQL."
         },
         {
             "name": "Web App Development",
