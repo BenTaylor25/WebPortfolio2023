@@ -18,7 +18,7 @@ main.Education {
             margin-top: 2rem;
             margin-bottom: 3rem;
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(min(80vw, 35rem), 1fr));
         }
     }
 }
