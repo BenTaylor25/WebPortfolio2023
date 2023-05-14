@@ -85,6 +85,20 @@
             "text": "This module was tough, so I was glad I had experience with building Websites beforehand. We covered HTML, CSS, JavaScript, Python, Flask, Jinja2, SQLite, AJAX, User Sessions, SQL, Accessibility, and Responsive Design. For the coursework, we were allowed to use TypeScript and SCSS, and I opted to."
         }
     ],
+    "uniother": [
+        {
+            "name": "Compiler Construction",
+            "date": "Feb2023-Mar2023",
+            "grade": "A+ (93%)",
+            "text": "This course was hosted by Professor Doctor Hanspeter Mössenböck of Johannes Kepler University. We covered Scanning, Parsing, Semantic Processing, Symbol Table Handling, and Code Generation. We used Java to build a version of the microJava language. Code Generation is particularly tricky, and I was unable to generate the bytecode for user input and output, but I learned a great deal about processing structured data."
+        },
+        {
+            "name": "Serious Game Design",
+            "date": "Sep2022-Sep2022",
+            "grade": "6 (Swiss)",
+            "text": ""
+        }
+    ],
     "alevel": [
         {
             "name": "Computer Science",

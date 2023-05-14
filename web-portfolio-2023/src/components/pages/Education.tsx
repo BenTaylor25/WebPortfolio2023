@@ -20,12 +20,26 @@ export default function Education() {
                 </section>
             </section>
             <section id="education-institution">
+                <h1>Other</h1>
+                <h2>
+                    These are non-Brookes university-level courses
+                    I studied during my degree.
+                </h2>
+                <section id="education-modules">
+                    {
+                        modules.uniother.map(course => {
+                            return <EducationModule {...course} />;
+                        })
+                    }
+                </section>
+            </section>
+            <section id="education-institution">
                 <h1>Wheatley Park Sixth Form (2019-2021)</h1>
                 <h2>AS and A-Level</h2>
                 <section id="education-modules">
                     {
                         modules.alevel.map(subject => {
-                            return <EducationModule {...subject} />
+                            return <EducationModule {...subject} />;
                         })
                     }
                 </section>
@@ -36,7 +50,7 @@ export default function Education() {
                 <section id="education-modules">
                     {
                         modules.gcse.map(subject => {
-                            return <EducationModule {...subject} />
+                            return <EducationModule {...subject} />;
                         })
                     }
                 </section>
