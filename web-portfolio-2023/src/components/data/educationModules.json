@@ -110,5 +110,67 @@
             "grade": "C",
             "text": "At GCSE, History was one of my favourite subjects because we looked at real events with a somewhat narrative lens. At A-Level however, the subject shifted to a more statistical lens based on social and political change over time. I found this to be less engaging, and ultimately prioritised Maths and Computer Science."
         }
+    ],
+    "gcse": [
+        {
+            "name": "Computer Science",
+            "date": "Sep2016-Jun2019",
+            "grade": "7 (A)",
+            "text": ""
+        },
+        {
+            "name": "Mathematics",
+            "date": "Sep2016-Jun2019",
+            "grade": "8 (A+)",
+            "text": ""
+        },
+        {
+            "name": "English Language",
+            "date": "Sep2016-Jun2019",
+            "grade": "6 (B)",
+            "text": ""
+        },
+        {
+            "name": "English Literature",
+            "date": "Sep2016-Jun2019",
+            "grade": "5 (C+)",
+            "text": ""
+        },
+        {
+            "name": "History",
+            "date": "Sep2016-Jun2019",
+            "grade": "6 (B)",
+            "text": ""
+        },
+        {
+            "name": "Physics",
+            "date": "Sep2016-Jun2019",
+            "grade": "6 (B)",
+            "text": ""
+        },
+        {
+            "name": "Biology",
+            "date": "Sep2016-Jun2019",
+            "grade": "5 (C+)",
+            "text": ""
+        },
+        {
+            "name": "Chemistry",
+            "date": "Sep2016-Jun2019",
+            "grade": "5 (C+)",
+            "text": ""
+        },
+        {
+            "name": "Media",
+            "date": "Sep2016-Jun2019",
+            "grade": "5 (C+)",
+            "text": ""
+        },
+        {
+            "name": "Business",
+            "date": "Sep2016-Jun2019",
+            "grade": "4 (C)",
+            "text": ""
+        }
     ]
 }

@@ -13,8 +13,8 @@ export default function Education() {
                 <h2>BSc Computer Science</h2>
                 <section id="education-modules">
                     {
-                        modules.brookes.map(bm => {
-                            return <EducationModule {...bm} />;
+                        modules.brookes.map(module_ => {
+                            return <EducationModule {...module_} />;
                         })
                     }
                 </section>
@@ -24,8 +24,19 @@ export default function Education() {
                 <h2>AS and A-Level</h2>
                 <section id="education-modules">
                     {
-                        modules.alevel.map(al => {
-                            return <EducationModule {...al} />
+                        modules.alevel.map(subject => {
+                            return <EducationModule {...subject} />
+                        })
+                    }
+                </section>
+            </section>
+            <section id="education-institution">
+                <h1>Wheatley Park School (2014-2019)</h1>
+                <h2>GCSE</h2>
+                <section id="education-modules">
+                    {
+                        modules.gcse.map(subject => {
+                            return <EducationModule {...subject} />
                         })
                     }
                 </section>
