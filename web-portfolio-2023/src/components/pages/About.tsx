@@ -67,22 +67,22 @@ export default function About() {
                                 <th style={{width: "80%"}}>Module Name</th>
                                 <th style={{width: "20%"}}>Result</th>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>Problem Solving and Programming</td>
                                 <td>A+ (96%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Foundations of Computer Systems</td>
                                 <td>A+ (77%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Basic Communications and PC Networking</td>
                                 <td>A (70%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Information Systems</td>
                                 <td>A+ (93%)</td>
-                            </tr>
+                            </tr> */}
                             <tr>
                                 <td>Object Oriented Programming</td>
                                 <td>A+ (98%)</td>
@@ -91,10 +91,10 @@ export default function About() {
                                 <td>DevOps</td>
                                 <td>A+ (84%)</td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>Mathematics for Computing</td>
                                 <td>A+ (100%)</td>
-                            </tr>
+                            </tr> */}
                             <tr>
                                 <td>Software Development in C and C++</td>
                                 <td>A+ (100%)</td>
@@ -103,14 +103,14 @@ export default function About() {
                                 <td>Data Structures and Algorithms</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>Foundations of Security</td>
                                 <td>A (73%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Innovative Product Development</td>
                                 <td>[Sep22-May22]</td>
-                            </tr>
+                            </tr> */}
                             <tr>
                                 <td>Foundations of Computation</td>
                                 <td>[Jan23-May23]</td>
