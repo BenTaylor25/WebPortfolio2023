@@ -18,7 +18,7 @@ export default function About() {
                         Outside of tech, I enjoy discussing Philosophy and Storytelling,
                         and learning about Psychology, Language, and History. When I'm
                         not working on programming projects or getting several weeks ahead
-                        of my uni course, I enjoy watching Formula 1, playing video games,
+                        of my uni course. I enjoy watching Formula 1, playing video games,
                         and learning German.
                     </p>
                 </div>
@@ -36,17 +36,14 @@ export default function About() {
                     <h1>Skills</h1>
                     <section>
                         <h2>Advanced</h2>
-                        <p>Python, Fuze4NS</p>
-                        <p>HTML</p>
+                        <p>Python, JavaScript, TypeScript</p>
+                        <p>HTML, CSS, SCSS, Fuze4NS</p>
                         <h2>Confident</h2>
-                        <p>JavaScript, TypeScript, Java, C++</p>
-                        <p>VSCode, Git, GitHub, React, CSS</p>
+                        <p>Java, C++</p>
+                        <p>VSCode, Git, GitHub, React</p>
                         <h2>Knowledgeable</h2>
-                        <p>C#, Dart, Rust, C, Go</p>
-                        <p>SCSS, Flutter, SQL, Vue.js</p>
-                        <h2>Beginner</h2>
-                        <p>Ruby, Kotlin, Lua, Swift</p>
-                        <p>Tauri</p>
+                        <p>C#, Dart, C, Rust, Go</p>
+                        <p>SQL, Vue.js</p>
                         <h2>Soft Skills</h2>
                         <p>Communication, Planning, Time Management</p>
                     </section>
