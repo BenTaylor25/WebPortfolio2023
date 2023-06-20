@@ -84,14 +84,14 @@ export default function About() {
                                 <td>Object Oriented Programming</td>
                                 <td>A+ (98%)</td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>DevOps</td>
                                 <td>A+ (84%)</td>
-                            </tr>
-                            {/* <tr>
+                            </tr> */}
+                            <tr>
                                 <td>Mathematics for Computing</td>
                                 <td>A+ (100%)</td>
-                            </tr> */}
+                            </tr>
                             <tr>
                                 <td>Software Development in C and C++</td>
                                 <td>A+ (100%)</td>
@@ -106,19 +106,19 @@ export default function About() {
                             </tr> */}
                             {/* <tr>
                                 <td>Innovative Product Development</td>
-                                <td>[Sep22-May22]</td>
+                                <td>A+ (79%)</td>
                             </tr> */}
                             <tr>
                                 <td>Foundations of Computation</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (100%)</td>
                             </tr>
                             <tr>
                                 <td>Databases</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (91%)</td>
                             </tr>
                             <tr>
                                 <td>Web App Development</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (89%)</td>
                             </tr>
                         </table>
                     </section>
