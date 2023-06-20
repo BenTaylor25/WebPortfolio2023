@@ -63,25 +63,25 @@
         {
             "name": "Innovative Product Development",
             "date": "Sep2022-May2023",
-            "grade": "[pending]",
+            "grade": "A+ (79%)",
             "text": "This module was a group project. Myself and 4 others were tasked with coming up with a creative idea and developing it using SCRUM. Our idea was a system that would allow tenants in shared housing to split the cost of shared items based on how much each person uses. We used Flutter, Diesel, Rocket, and Postgres. My main role was calling the backend from the Dart frontend."
         },
         {
             "name": "Foundations of Computation",
             "date": "Jan2023-May2023",
-            "grade": "[pending]",
+            "grade": "A+ (100%)",
             "text": "This has been one of my favourite modules so far. DFAs, NDFAs, Formal Languages and Grammars, Pushdown Automata, Turing Machines, and Lambda Calculus; the building blocks that make modern computers possible. Some of the content has been simplified from the formal papers, but I still found it fascinating."
         },
         {
             "name": "Databases",
             "date": "Jan2023-May2023",
-            "grade": "[pending]",
+            "grade": "A+ (91%)",
             "text": "This module explored data representation in XML, JSON, and CSV, as well as transformations with XSLT, and Relational Database design / implementation in MySQL."
         },
         {
             "name": "Web App Development",
             "date": "Jan2023-May2023",
-            "grade": "[pending]",
+            "grade": "A+ (89%)",
             "text": "This module was tough, so I was glad I had experience with building Websites beforehand. We covered HTML, CSS, JavaScript, Python, Flask, Jinja2, SQLite, AJAX, User Sessions, SQL, Accessibility, and Responsive Design. For the coursework, we were allowed to use TypeScript and SCSS, and I opted to."
         }
     ],
