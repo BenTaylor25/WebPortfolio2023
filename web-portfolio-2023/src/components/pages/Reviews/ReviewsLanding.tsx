@@ -12,7 +12,6 @@ export default function ReviewsLanding() {
                 <p>In my free time, I enjoy reading books and playing video games.</p>
                 <p>I love sharing interpretations, and recommending my favourites.</p>
             </div>
-            <p style={{marginTop: "1rem"}}><i>[note: this section is currently work in progress]</i></p>
             <div className='rating-key'>
                 <p>0-3: not recommended</p>
                 <p>3-5: underwhelming</p>

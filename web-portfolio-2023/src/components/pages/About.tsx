@@ -18,7 +18,7 @@ export default function About() {
                         Outside of tech, I enjoy discussing Philosophy and Storytelling,
                         and learning about Psychology, Language, and History. When I'm
                         not working on programming projects or getting several weeks ahead
-                        of my uni course, I enjoy watching Formula 1, playing video games,
+                        of my uni course. I enjoy watching Formula 1, playing video games,
                         and learning German.
                     </p>
                 </div>
@@ -36,17 +36,14 @@ export default function About() {
                     <h1>Skills</h1>
                     <section>
                         <h2>Advanced</h2>
-                        <p>Python, Fuze4NS</p>
-                        <p>HTML</p>
+                        <p>Python, JavaScript, TypeScript</p>
+                        <p>HTML, CSS, SCSS, Fuze4NS</p>
                         <h2>Confident</h2>
-                        <p>JavaScript, TypeScript, Java, C++</p>
-                        <p>VSCode, Git, GitHub, React, CSS</p>
+                        <p>Java, C++</p>
+                        <p>VSCode, Git, GitHub, React</p>
                         <h2>Knowledgeable</h2>
-                        <p>C#, Dart, Rust, C, Go</p>
-                        <p>SCSS, Flutter, SQL, Vue.js</p>
-                        <h2>Beginner</h2>
-                        <p>Ruby, Kotlin, Lua, Swift</p>
-                        <p>Tauri</p>
+                        <p>C#, Dart, C, Rust, Go</p>
+                        <p>SQL, Vue.js</p>
                         <h2>Soft Skills</h2>
                         <p>Communication, Planning, Time Management</p>
                     </section>
@@ -67,65 +64,65 @@ export default function About() {
                                 <th style={{width: "80%"}}>Module Name</th>
                                 <th style={{width: "20%"}}>Result</th>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>Problem Solving and Programming</td>
                                 <td>A+ (96%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Foundations of Computer Systems</td>
                                 <td>A+ (77%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Basic Communications and PC Networking</td>
                                 <td>A (70%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Information Systems</td>
                                 <td>A+ (93%)</td>
-                            </tr>
-                            <tr className='highlight'>
+                            </tr> */}
+                            <tr>
                                 <td>Object Oriented Programming</td>
                                 <td>A+ (98%)</td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>DevOps</td>
                                 <td>A+ (84%)</td>
-                            </tr>
+                            </tr> */}
                             <tr>
                                 <td>Mathematics for Computing</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Software Development in C and C++</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Data Structures and Algorithms</td>
                                 <td>A+ (100%)</td>
                             </tr>
-                            <tr>
+                            {/* <tr>
                                 <td>Foundations of Security</td>
                                 <td>A (73%)</td>
-                            </tr>
-                            <tr>
+                            </tr> */}
+                            {/* <tr>
                                 <td>Innovative Product Development</td>
-                                <td>[Sep22-May22]</td>
-                            </tr>
+                                <td>A+ (79%)</td>
+                            </tr> */}
                             <tr>
                                 <td>Foundations of Computation</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (100%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Databases</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (91%)</td>
                             </tr>
-                            <tr className='highlight'>
+                            <tr>
                                 <td>Web App Development</td>
-                                <td>[Jan23-May23]</td>
+                                <td>A+ (89%)</td>
                             </tr>
                         </table>
                     </section>
-                    <p>See my full education background on <a href="https://www.linkedin.com/in/bentaylor25">LinkedIn</a></p>
+                    <p><a href="/WebPortfolio2023/education">See my full education background</a></p>
                 </div>
                 <img
                     src="assets/about/whiteboard.jpg"
