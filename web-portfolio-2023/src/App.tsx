@@ -7,8 +7,8 @@ import Home from './components/pages/Home'
 import About from "./components/pages/About";
 import Work from "./components/pages/Work";
 import Projects from "./components/pages/Projects";
-import ReviewsLanding from "./components/pages/ReviewsLanding";
-import ReviewPage from "./components/pages/ReviewsPage";
+import ReviewsLanding from "./components/pages/Reviews/ReviewsLanding";
+import ReviewPage from "./components/pages/Reviews/ReviewsPage";
 import NotFound from "./components/pages/NotFound";
 import './App.scss'
 import './components/pages/_AllPages.scss'

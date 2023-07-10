@@ -1,11 +1,11 @@
 import { useState } from "react";
 
-import ReviewEntry from "../Reviews/ReviewEntry";
-import { ReviewProps } from "../Reviews/ReviewEntry";
-import "./ReviewsPage.scss"
+import ReviewEntry from "../../Reviews/ReviewEntry";
+import { ReviewProps } from "../../Reviews/ReviewEntry";
+import "./ReviewsPage.scss";
 
-import bookReviews from "../data/bookReviews.json"
-import gameReviews from "../data/gameReviews.json"
+import bookReviews from "../../data/bookReviews.json";
+import gameReviews from "../../data/gameReviews.json";
 
 type Props = {
     page: "books" | "games";
