@@ -1,8 +1,8 @@
 import './Education.scss';
 
-import EducationModule from '../Education/EducationModule';
+import EducationModule from '../../Education/EducationModule';
 
-import modules from '../data/educationModules.json';
+import modules from '../../data/educationModules.json';
 
 export default function Education() {
 

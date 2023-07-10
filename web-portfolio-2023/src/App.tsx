@@ -4,8 +4,8 @@ import { useMediaQuery } from "@material-ui/core"
 import MyNav from './components/base/MyNav'
 import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
-import About from "./components/pages/About";
-import Education from "./components/pages/Education";
+import About from "./components/pages/About/About";
+import Education from "./components/pages/About/Education";
 import Work from "./components/pages/Work";
 import Projects from "./components/pages/Projects";
 import ReviewsLanding from "./components/pages/Reviews/ReviewsLanding";
