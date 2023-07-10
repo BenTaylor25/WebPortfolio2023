@@ -6,6 +6,7 @@ import MyFooter from "./components/base/MyFooter";
 import Home from './components/pages/Home'
 import About from "./components/pages/About/About";
 import Education from "./components/pages/About/Education";
+import Fitness from "./components/pages/About/Fitness";
 import Work from "./components/pages/Work";
 import Projects from "./components/pages/Projects";
 import ReviewsLanding from "./components/pages/Reviews/ReviewsLanding";
@@ -27,6 +28,7 @@ export default function App() {
           <Route path="/WebPortfolio2023/" element={<Home />}></Route>
           <Route path="/WebPortfolio2023/about" element={<About />}></Route>
           <Route path="/WebPortfolio2023/education" element={<Education />}></Route>
+          <Route path="/WebPortfolio2023/fitness" element={<Fitness />}></Route>
           <Route path="/WebPortfolio2023/work" element={<Work />}></Route>
           <Route path="/WebPortfolio2023/projects" element={<Projects />}></Route>
           <Route path="/WebPortfolio2023/reviews" element={<ReviewsLanding />}></Route>
