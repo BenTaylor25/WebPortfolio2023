@@ -1,0 +1,17 @@
+
+main.Fitness {
+    p {
+        width: 60%;
+        margin-left: 20%;
+    }
+
+    #transformation-gallery {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        justify-content: space-evenly;
+
+        @media screen and (orientation: portrait) {
+            grid-template-columns: auto;
+        }
+    }
+}
