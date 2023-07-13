@@ -12,12 +12,12 @@ export default function Fitness() {
             </p>
             <section id="transformation-gallery">
                 <img
-                    src={"assets/fitness/side-transformation.png"}
-                    alt="side-on comparison of me in January 2021 (113kg) and July 2023 (73kg)"
-                />
-                <img
                     src={"assets/fitness/front-transformation.png"}
                     alt="front-facing comparison of me in January 2021 (113kg) and July 2023 (73kg)"
+                />
+                <img
+                    src={"assets/fitness/side-transformation.png"}
+                    alt="side-on comparison of me in January 2021 (113kg) and July 2023 (73kg)"
                 />
                 <img
                     src={"assets/fitness/back-transformation.png"}
