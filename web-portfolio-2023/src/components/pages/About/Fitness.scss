@@ -4,19 +4,19 @@ main.Fitness {
         width: 60%;
         margin-left: 20%;
     }
+    
+    img {
+        width: 25vw;
+        margin: 1rem 0;
+    }
 
     #transformation-gallery {
         display: grid;
         grid-template-columns: auto auto auto;
         justify-content: space-evenly;
-        margin-bottom: 1rem;
 
         @media screen and (orientation: portrait) {
             grid-template-columns: auto;
-        }
-
-        img {
-            width: 25vw;
         }
     }
 }

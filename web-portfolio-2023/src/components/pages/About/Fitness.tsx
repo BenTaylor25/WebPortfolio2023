@@ -24,6 +24,10 @@ export default function Fitness() {
                     alt="back-facing comparison of me in January 2021 (113kg) and July 2023 (73kg)"
                 />
             </section>
+            <img
+                src={"assets/fitness/9-years.png"}
+                alt="comparison image of me in 2014 and 2023"
+            />
         </main>
     );
 }
