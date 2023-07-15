@@ -39,13 +39,13 @@ export default function About() {
                     <section>
                         <h2>Advanced</h2>
                         <p>Python, JavaScript, TypeScript</p>
-                        <p>HTML, CSS, SCSS, Fuze4NS</p>
+                        <p>HTML, CSS, SCSS</p>
                         <h2>Confident</h2>
-                        <p>Java, C++</p>
+                        <p>C#, Java</p>
                         <p>VSCode, Git, GitHub, React</p>
                         <h2>Knowledgeable</h2>
-                        <p>C#, Dart, C, Rust, Go</p>
-                        <p>SQL, Vue.js</p>
+                        <p>C, Rust, Go, C++</p>
+                        <p>Vue.js, SQL, Visual Studio, WPF</p>
                         <h2>Soft Skills</h2>
                         <p>Communication, Planning, Time Management</p>
                     </section>
