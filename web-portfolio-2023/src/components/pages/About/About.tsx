@@ -19,7 +19,9 @@ export default function About() {
                         and learning about Psychology, Language, and History. When I'm
                         not working on programming projects or getting several weeks ahead
                         of my uni course. I enjoy watching Formula 1, playing video games,
-                        and learning German.
+                        and learning German. I'm not super passionate about&nbsp;
+                        <a href="/WebPortfolio2023/fitness">fitness</a>, but I do like to
+                        stay in good shape.
                     </p>
                 </div>
                 <img
