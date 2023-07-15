@@ -10,6 +10,10 @@ export default function Fitness() {
                 kid growing up, but by January 2021 it was really
                 bothering me and I decided to make a change.
             </p>
+            <p>
+                I documented my progress on&nbsp;
+                <a href="https://www.instagram.com/bens__gym/">Instagram</a>.
+            </p>
             <section id="transformation-gallery">
                 <img
                     src={"assets/fitness/front-transformation.png"}
