@@ -3,6 +3,21 @@ import './Work.scss';
 export default function Work() {
     return (
         <main className="work">
+
+            <section className="entry">
+                <img src="assets/work/scuderiaalphatauri.jpg" alt="Scuderia AlphaTauri Logo" />
+                <div className="text">
+                    <h1>Aero Systems Software Engineer Intern - Scuderia AlphaTauri</h1>
+                    <h2>Jul 2023 - present</h2>
+                    <p>
+                        For my University placement year, I am a Software Engineer in
+                        the Aerodynamics department of AlphaTauri Formula 1 team.
+                        I am developing internal tools for various aero teams to
+                        facilitate improvements to the performance of the cars.
+                    </p>
+                </div>
+            </section>
+
             <section className="entry">
                 <img src="assets/icon.png" alt="Ben Icon" />
                 <div className="text">
