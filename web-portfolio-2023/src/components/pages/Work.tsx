@@ -15,6 +15,7 @@ export default function Work() {
                         I am developing internal tools for various aero teams to
                         facilitate improvements to the performance of the cars.
                     </p>
+                    <p>C#, WPF.</p>
                 </div>
             </section>
 
@@ -30,6 +31,7 @@ export default function Work() {
                         high-quality interior and exterior decorating as well as
                         landscaping and garden maintenance.
                     </p>
+                    <p>HTML, CSS, JavaScript.</p>
                 </div>
             </section>
 
@@ -58,6 +60,7 @@ export default function Work() {
                         leader, and encouraged the students to speak up. As a result, over half of the AI students
                         made use of the module leader's drop-in hours, which are usually neglected.
                     </p>
+                    <p>Tutoring, Python, Java.</p>
                 </div>
             </section>
 
@@ -84,6 +87,7 @@ export default function Work() {
                         is shown a grid preview of slides in an overlay menu. Clicking one of the slides will
                         close the menu and jump the presentation to that slide.
                     </p>
+                    <p>Vue.js, C#, ASP.NET Core, Azure.</p>
                 </div>
             </section>
 
@@ -99,6 +103,7 @@ export default function Work() {
                         I taught a variety of different technologies to children, including Scratch,
                         JavaScript, and Electronics.
                     </p>
+                    <p>Tutoring, Scratch, JavaScript.</p>
                 </div>
             </section>
 
@@ -114,6 +119,7 @@ export default function Work() {
                         programming to children through simple games. This required me to break down the
                         concepts and communicate them. I also became proficient at finding errors quickly.
                     </p>
+                    <p>Tutoring, Fuze4 Nintendo Switch, Fuze Basic.</p>
                 </div>
             </section>
         </main>
