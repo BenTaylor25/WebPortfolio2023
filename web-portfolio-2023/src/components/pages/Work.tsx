@@ -99,9 +99,13 @@ export default function Work() {
                     <h1>Computing Tutor - Code Ninjas Oxford</h1>
                     <h2>Sep 2021 - Jul 2022</h2>
                     <p>
-                        At <a href="https://codeninjas.co.uk/oxford-oxf-uk">Code Ninjas Oxford</a>,
+                        At <a href="https://codeninjas.co.uk/">Code Ninjas</a> Oxford,
                         I taught a variety of different technologies to children, including Scratch,
                         JavaScript, and Electronics.
+                    </p>
+                    <p>
+                        Unfortunately, the Oxford centre is no longer active,
+                        but you can find out what Code Ninjas is about from the global site.
                     </p>
                     <p>Tutoring, Scratch, JavaScript.</p>
                 </div>
