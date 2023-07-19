@@ -131,11 +131,43 @@ export default function About() {
                     alt="image of Ben planning a project on a whiteboard"
                 />   {/* Replace with image of graduation in 2025? */}
             </section>
-            <section className='other'>
+            <section className="future">
                 <img
-                    src="assets/about/presentation.jpg"
+                    src="assets/about/windtunnel.jpg"
                     alt="image of Ben giving presentation PAL"
                 />
+                <div>
+                    <h1>Future</h1>
+                    <p>
+                        The technologies that I am currently most excited about are Angular,
+                        C#, and Rust.
+                    </p>
+                    <br />
+                    <p>
+                        As of writing, I haven't used Angular at all. I know that it enforces
+                        structure, and offers a great deal of officially supported packages.
+                        I imagine this makes new codebases seem more familiar. Dependency Injection
+                        for shared state seems intuitive and I am looking forward to trying it out.
+                        TypeScript being enforced is an idea I am very much on-board with.
+                    </p>
+                    <br />
+                    <p>
+                        C# is one of the most wide-spread desktop-application programming languages.
+                        It offers the advantages of Java, without forcing you to use Java.
+                        I have recently been studying Design Patterns, and C# gives me plenty
+                        of opportunities to put them into practice.
+                        C# is also the primary language of my placement year, which means I am getting
+                        a tonne of experience working with large-scale collaborative codebases.
+                    </p>
+                    <br />
+                    <p>
+                        Rust is a rapidly growing language, and the memory safety model is popular for
+                        good reason. Systems-level programming requires you to think like a computer
+                        much more than TypeScript or C#, which I enjoy.
+                    </p>
+                </div>
+            </section>
+            <section className='other'>
                 <div>
                     <h1>Other</h1>
                     <section>
@@ -151,6 +183,10 @@ export default function About() {
                         </p>
                     </section>
                 </div>
+                <img
+                    src="assets/about/presentation.jpg"
+                    alt="image of Ben giving presentation PAL"
+                />
             </section>
         </main>
     )
