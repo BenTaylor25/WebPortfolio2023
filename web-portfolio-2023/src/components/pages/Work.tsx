@@ -3,6 +3,22 @@ import './Work.scss';
 export default function Work() {
     return (
         <main className="work">
+
+            <section className="entry">
+                <img src="assets/work/scuderiaalphatauri.jpg" alt="Scuderia AlphaTauri Logo" />
+                <div className="text">
+                    <h1>Aero Systems Software Engineer Intern - Scuderia AlphaTauri</h1>
+                    <h2>Jul 2023 - present</h2>
+                    <p>
+                        For my University placement year, I am a Software Engineer in
+                        the Aerodynamics department of AlphaTauri Formula 1 team.
+                        I am developing internal tools for various aero teams to
+                        facilitate improvements to the performance of the cars.
+                    </p>
+                    <p>C#, WPF.</p>
+                </div>
+            </section>
+
             <section className="entry">
                 <img src="assets/icon.png" alt="Ben Icon" />
                 <div className="text">
@@ -15,6 +31,7 @@ export default function Work() {
                         high-quality interior and exterior decorating as well as
                         landscaping and garden maintenance.
                     </p>
+                    <p>HTML, CSS, JavaScript.</p>
                 </div>
             </section>
 
@@ -43,6 +60,7 @@ export default function Work() {
                         leader, and encouraged the students to speak up. As a result, over half of the AI students
                         made use of the module leader's drop-in hours, which are usually neglected.
                     </p>
+                    <p>Tutoring, Python, Java.</p>
                 </div>
             </section>
 
@@ -69,6 +87,7 @@ export default function Work() {
                         is shown a grid preview of slides in an overlay menu. Clicking one of the slides will
                         close the menu and jump the presentation to that slide.
                     </p>
+                    <p>Vue.js, C#, ASP.NET Core, Azure.</p>
                 </div>
             </section>
 
@@ -80,10 +99,15 @@ export default function Work() {
                     <h1>Computing Tutor - Code Ninjas Oxford</h1>
                     <h2>Sep 2021 - Jul 2022</h2>
                     <p>
-                        At <a href="https://codeninjas.co.uk/oxford-oxf-uk">Code Ninjas Oxford</a>,
+                        At <a href="https://codeninjas.co.uk/">Code Ninjas</a> Oxford,
                         I taught a variety of different technologies to children, including Scratch,
                         JavaScript, and Electronics.
                     </p>
+                    <p>
+                        Unfortunately, the Oxford centre is no longer active,
+                        but you can find out what Code Ninjas is about from the global site.
+                    </p>
+                    <p>Tutoring, Scratch, JavaScript.</p>
                 </div>
             </section>
 
@@ -99,6 +123,7 @@ export default function Work() {
                         programming to children through simple games. This required me to break down the
                         concepts and communicate them. I also became proficient at finding errors quickly.
                     </p>
+                    <p>Tutoring, Fuze4 Nintendo Switch, Fuze Basic.</p>
                 </div>
             </section>
         </main>
