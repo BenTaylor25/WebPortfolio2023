@@ -15,6 +15,10 @@ export default function Work() {
                         I am developing internal tools for various aero teams to
                         facilitate improvements to the performance of the cars.
                     </p>
+                    <p>
+                        The role also involves various IT tasks such as swapping RAM in
+                        office PCs and reimaging devices before they can be repurposed.
+                    </p>
                     <p>C#, WPF.</p>
                 </div>
             </section>
