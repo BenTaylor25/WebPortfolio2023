@@ -19,6 +19,10 @@ main.Fitness {
         }
     }
 
+    &>img {
+        margin-bottom: 5rem;
+    }
+
     #transformation-gallery {
         display: grid;
         grid-template-columns: auto auto auto;
