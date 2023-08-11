@@ -19,7 +19,7 @@ export default function Work() {
                         The role also involves various IT tasks such as swapping RAM in
                         office PCs and reimaging devices before they can be repurposed.
                     </p>
-                    <p>C#, WPF.</p>
+                    <p>C#, WPF, HTML, CSS, JavaScript.</p>
                 </div>
             </section>
 
