@@ -45,7 +45,7 @@ export default function Work() {
                 </a>
                 <div className="text">
                     <h1>PAL Lead Tutor - Oxford Brookes University</h1>
-                    <h2>Jul 2022 - present</h2>
+                    <h2>Jul 2022 - May 2023</h2>
                     <p>
                         Having performed well in the first year of <a href="https://brookes.ac.uk">University</a>,
                         I was offered a role helping the 2022-2023 first-year students, leading the Peer-Assisted 
