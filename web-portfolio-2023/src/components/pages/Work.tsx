@@ -11,7 +11,8 @@ export default function Work() {
                     <h2>Jul 2023 - present</h2>
                     <p>
                         For my University placement year, I am a Software Engineer in
-                        the Aerodynamics department of AlphaTauri Formula 1 team.
+                        the Aerodynamics department of <a href="https://scuderia.alphatauri.com/en/">
+                        AlphaTauri Formula 1 team</a>.
                         I am developing internal tools for various aero teams to
                         facilitate improvements to the performance of the cars.
                     </p>
@@ -19,7 +20,7 @@ export default function Work() {
                         The role also involves various IT tasks such as swapping RAM in
                         office PCs and reimaging devices before they can be repurposed.
                     </p>
-                    <p>C#, WPF.</p>
+                    <p>C#, WPF, HTML, CSS, JavaScript.</p>
                 </div>
             </section>
 
@@ -45,7 +46,7 @@ export default function Work() {
                 </a>
                 <div className="text">
                     <h1>PAL Lead Tutor - Oxford Brookes University</h1>
-                    <h2>Jul 2022 - present</h2>
+                    <h2>Jul 2022 - May 2023</h2>
                     <p>
                         Having performed well in the first year of <a href="https://brookes.ac.uk">University</a>,
                         I was offered a role helping the 2022-2023 first-year students, leading the Peer-Assisted 
