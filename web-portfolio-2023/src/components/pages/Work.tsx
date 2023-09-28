@@ -12,13 +12,14 @@ export default function Work() {
                     <p>
                         For my University placement year, I am a Software Engineer in
                         the Aerodynamics department of <a href="https://scuderia.alphatauri.com/en/">
-                        AlphaTauri Formula 1 team</a>.
+                        Scuderia AlphaTauri Formula 1 team </a>.
                         I am developing internal tools for various aero teams to
                         facilitate improvements to the performance of the cars.
                     </p>
                     <p>
                         The role also involves various IT tasks such as swapping RAM in
-                        office PCs and reimaging devices before they can be repurposed.
+                        office PCs, reimaging devices before they can be repurposed,
+                        recording and editing videos for LinkedIn, and panelling webinars.
                     </p>
                     <p>C#, WPF, HTML, CSS, JavaScript.</p>
                 </div>
