@@ -26,6 +26,14 @@
         "youtubeURL": ""
     },
     {
+        "name": "Rentola",
+        "time": "Nov 2023 - Dec 2023",
+        "description": "I believe in project-based learning; I think the best way to learn a new technology is to follow a tutorial to see how the technology is used, and then immediately apply what you've learnt to a full project. Ideally this project will be something useful, but as long as you are applying the principles you will learn a lot more than you would by just studying. Rentola is an Inventory application powered by a C# Web API. I built a simple React+TypeScript frontend to call the API. Users have the ability to search for items on the server, create new items, increment/decrement the quantities of those items, and delete items.",
+        "technologies": "C#, React, TypeScript, SCSS, Vite",
+        "imageURL": "assets/projects/RentolaScreenshot.jpg",
+        "githubURL": "https://github.com/BenTaylor25/Rentola"
+    },
+    {
         "name": "Intro to Programming",
         "time": "Mar 2022 - Jun 2022",
         "description": "In the first semester of my university course, I spoke to a lot of people that had no prior Computer Science experience and were struggling with the Problem Solving and Programming module. I offered help where I could, but after seeing some of the same questions from multiple people, I decided to make a Programming tutorial series. I decided to focus on the core concepts, with minimal fancy language-specific tips and tricks. I also showed off small amounts of C++ and Java code for comparison, to make learning a new language later easier.",
