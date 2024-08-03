@@ -37,17 +37,19 @@ export default function About() {
                 <div>
                     <h1>Skills</h1>
                     <section>
-                        <h2>Advanced</h2>
-                        <p>Python, JavaScript, TypeScript</p>
-                        <p>HTML, CSS, SCSS</p>
-                        <h2>Confident</h2>
-                        <p>C#, Java</p>
-                        <p>VSCode, Git, GitHub, React</p>
-                        <h2>Knowledgeable</h2>
-                        <p>C, Rust, Go, C++</p>
-                        <p>Vue.js, SQL, Visual Studio, WPF</p>
+                        <h2>Programming</h2>
+                        <p>C#, TypeScript, Python, Java,</p>
+                        <p>HTMl, CSS, SCSS.</p>
+
+                        <h2>Technical</h2>
+                        <p>WPF, React, Vue,</p>
+                        <p>Git, GitHub.</p>
+
                         <h2>Soft Skills</h2>
-                        <p>Communication, Planning, Time Management</p>
+                        <p>Communication, Tutoring, Planning, Time Management.</p>
+
+                        <h2>Knowledgeable</h2>
+                        <p>C, C++, Rust, Go.</p>
                     </section>
                 </div>
             </section>
