@@ -169,7 +169,33 @@ export default function About() {
                     </p>
                 </div>
             </section>
+            <section className="formula_one">
+                <div>
+                    <h2>Formula 1</h2>
+                    <p>
+                        Formula 1 is a recent but significant passion of mine.
+                        It's very easy for a spectator to overlook the science that goes into motorsport.
+                        I was extremely fortunate to secure an internship in F1 after just under a year of
+                        exposure to the sport.
+                    </p>
+                    <br />
+                    <p>
+                        Aero Software Engineering requires a lot of mathematical computation and engineering context
+                        which adds a whole new dimension to programming that I have come to love.
+                    </p>
+                    <br />
+                    <p>
+                        Software to solve a problem or optimise a process seems much more engaging to me,
+                        and seeing the results of your team's every other weekend is incredibly motivating.
+                    </p>
+                </div>
+                <img src="assets/about/silverstone.jpg" alt="image of Ben at Silverstone racing track" />
+            </section>
             <section className='other'>
+                <img
+                    src="assets/about/presentation.jpg"
+                    alt="image of Ben giving presentation PAL"
+                />
                 <div>
                     <h1>Other</h1>
                     <section>
@@ -185,10 +211,6 @@ export default function About() {
                         </p>
                     </section>
                 </div>
-                <img
-                    src="assets/about/presentation.jpg"
-                    alt="image of Ben giving presentation PAL"
-                />
             </section>
         </main>
     )
