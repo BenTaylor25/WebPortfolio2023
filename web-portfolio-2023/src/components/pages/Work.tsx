@@ -5,23 +5,132 @@ export default function Work() {
         <main className="work">
 
             <section className="entry">
+                <img src="assets/work/racingbulls.jpg" alt="Racing Bulls F1 Logo" />
+                <div className="text">
+                    <h1>Aero Systems Software Engineer Intern - Racing Bulls F1</h1>
+                    <h2>Jan 2024 - Aug 2024</h2>
+                    <p>
+                        In January 2024, AlphaTauri rebranded to&nbsp;
+                        <a href="https://www.visacashapprb.com/en/">Racing Bulls</a>.
+                    </p>
+                    <p>
+                        It was in the new year where the Automatic Pressure Tap testing project
+                        really started to pick up.
+                        Early on, there was a big push to get the system production-ready.
+                        However when I got a build ready for testing, we determined that
+                        the blockage test looked acceptable, but the leakage test was copmletely
+                        unusable. I moved the box to a quiet area and got working on reimplementing
+                        the logic, this time cleaner, better-documented and seperated out into its
+                        own file.
+                        There were a few ideas that I tried and failed with, but I learned from them
+                        and within about a week or two, I had a fully working pressure test system.
+                        Before we could send the system to production, I was asked to make a few
+                        easy quality-of-life fixes, but also had to navigate the Pressure Tap
+                        numbering system; if a part has 4 pressure taps, it makes sense for them
+                        to be numbered 1-4, however if this part forms an assembly with other parts
+                        and the assembly has 20 taps, the original part might actually be plumed up
+                        to ports 9-12. This difference meant that we didn't have a standard way of
+                        nubmering, which hadn't been a serious issue until now. I lead a discussion
+                        with the Head of Technology, the Deputy Head of Model Design, the Head of
+                        Model Shop and the Head of Wind Tunnel Engineering to propose 1-n on every
+                        individual part and have assemblies be a problem we think about later.
+                        Model Design then commited to implementing this on all future parts, and
+                        offered to fix the numbering on old parts as required.
+                        This allowed me to put the final pieces together and send the system to
+                        production.
+                    </p>
+                    <p>
+                        On of the box connectors was set to be upgraded in a second revision.
+                        Overall this was a beneficial change, but it would require a change
+                        to Software side as the Software side made assumptions about the box.
+                        I needed a way to handle both of the box revisions at the same time,
+                        so I re-evaluated the variable/constant seperation between the box and
+                        the client application, and moved all of the box-specific values to
+                        the PLC program. This meant that the Software side could connect to
+                        any PIT200 box and read its specification to know how to use it.
+                    </p>
+                    <p>
+                        With the Automatic Pressure Tap Testing system now in production,
+                        and with all of the technical context that the company would loose
+                        with my departure, I requested that a full-time member of the Aero Systems
+                        Group join the project rather than it just be passed down by interns.
+                        In my last month, I mentored the allocated full-time member new ASG intern
+                        through the system and had them develop the next stage of the application:
+                        pneumatic loom testing. As a testament to their ability as Engineers and
+                        my experience of tutoring, we were able to get the core functionality of
+                        the loom test working and flagging the right issues without me writing
+                        any of the code.
+                        In order for them to pick my brain as much as possible before the end
+                        (and because I had no concern that they would be able to polish the
+                        system up without my help) we moved straight on to stage 3: Assembly Testing.
+                        Pneumatically, this test is the same as a part. It becomes extremely
+                        difficult however when you need to match up pressure taps that go through
+                        one part into another, or if you have multiple parts connected to one
+                        terminator which leaves you with an offset that you have to figure out.
+                        It was a tough challenge, but with the help of the new intern, the
+                        full-time ASG member, a Model Designer that had context on how
+                        pressure taps are done manually through Excel, and the ASG member that
+                        maintains the CAD Pressure Tap information export tool, I was able to
+                        formalise a strategy for adapting the data we capture such that parts
+                        are uneffected and assemblies can be represented nicely.
+                    </p>
+                    <p>C#, WPF, Beckhoff PLC, Structured Text, JavaScript.</p>
+                </div>
+            </section>
+
+            <section className="entry">
                 <img src="assets/work/scuderiaalphatauri.jpg" alt="Scuderia AlphaTauri Logo" />
                 <div className="text">
                     <h1>Aero Systems Software Engineer Intern - Scuderia AlphaTauri</h1>
-                    <h2>Jul 2023 - present</h2>
+                    <h2>Jul 2023 - Jan 2024</h2>
                     <p>
-                        For my University placement year, I am a Software Engineer in
-                        the Aerodynamics department of <a href="https://scuderia.alphatauri.com/en/">
-                        Scuderia AlphaTauri Formula 1 team</a>.
-                        I am developing internal tools for various aero teams to
-                        facilitate improvements to the performance of the cars.
+                        For my University placement year, I was a Software Engineer in
+                        the Aerodynamics department of Scuderia AlphaTauri Formula 1 team.
+                        I developed internal tools for various groups to facilitate
+                        improvements to the performance of the cars.
+                    </p>
+                    <p>
+                        The project where I spent the most of my time was an Automatic
+                        Pressure Tap testing system. F1 teams collect air pressure
+                        data from different areas of the car during Wind Tunnel runs and
+                        Track sessions. This along with CFD Probing allows us to create
+                        heatmap displays critical to cross-domain correlation.
+                        This falls apart however, if the data we read from pressure taps
+                        is erronous due to a blockage or damage in the line between the
+                        car surface and the scanner port.
+                        My project sends a known pressure down these lines in a particular
+                        way and measures the response to determine if there is an issue and
+                        what that issue is.
+                        The hardware box for this project (that contains pressure scanners
+                        and solenoid valves) was already built up when I arrived and the
+                        Software UI was mostly built out already too, however the pressure
+                        tests were unreliable and -- as I would later discover -- incorrectly
+                        implemented.
+                        I spent much of my first months learning WPF, cleaning up some
+                        inconsistencies with the codebase and aligning it with the coding
+                        standards as best I could without rewriting everything.
+                        My first major feature was to export pressure over time data to
+                        a file that could be read in a program called Pi Toolbox.
+                        The system had a 3D view of Wind Tunnel parts as you're testing them,
+                        but some parts are symmetrical and don't have a dedicated .stl file
+                        to save storage space. I performed some pattern matching on the
+                        Part Number string to determine whether a part was mirrored (according
+                        to the Part Numbering standard) and performed the mirroring operations
+                        on the existing corresponding part as required.
+                    </p>
+                    <p>
+                        The hardware side of the Pressure Tap testing project is powered by
+                        a Beckhoff PLC. I had the opportunity to attend a 2-day PLC Programming
+                        training course hosted by Beckhoff in Huntingdon. This gave me a much
+                        greater context of how the system worked and enabled me to make
+                        improvements down the line.
                     </p>
                     <p>
                         The role also involves various IT tasks such as swapping RAM in
                         office PCs, reimaging devices before they can be repurposed,
                         recording and editing videos for LinkedIn, and panelling webinars.
                     </p>
-                    <p>C#, WPF, HTML, CSS, JavaScript.</p>
+                    <p>C#, WPF, Beckhoff PLC, Structured Text, JavaScript.</p>
                 </div>
             </section>
 
