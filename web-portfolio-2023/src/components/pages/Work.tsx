@@ -5,23 +5,75 @@ export default function Work() {
         <main className="work">
 
             <section className="entry">
+                <img src="assets/work/racingbulls.jpg" alt="Racing Bulls F1 Logo" />
+                <div className="text">
+                    <h1>Aero Systems Software Engineer Intern - Racing Bulls F1</h1>
+                    <h2>Jan 2024 - Aug 2024</h2>
+                    <p>
+                        In January 2024, AlphaTauri rebranded to&nbsp;
+                        <a href="https://www.visacashapprb.com/en/">Racing Bulls</a>.
+                    </p>
+                    <p>
+                        It was in the new year where the pressure tap testing project
+                        really started to pick up.
+                    </p>
+                    <p>C#, WPF, Beckhoff PLC, Structured Text, JavaScript.</p>
+                </div>
+            </section>
+
+            <section className="entry">
                 <img src="assets/work/scuderiaalphatauri.jpg" alt="Scuderia AlphaTauri Logo" />
                 <div className="text">
                     <h1>Aero Systems Software Engineer Intern - Scuderia AlphaTauri</h1>
-                    <h2>Jul 2023 - present</h2>
+                    <h2>Jul 2023 - Jan 2024</h2>
                     <p>
-                        For my University placement year, I am a Software Engineer in
-                        the Aerodynamics department of <a href="https://scuderia.alphatauri.com/en/">
-                        Scuderia AlphaTauri Formula 1 team</a>.
-                        I am developing internal tools for various aero teams to
-                        facilitate improvements to the performance of the cars.
+                        For my University placement year, I was a Software Engineer in
+                        the Aerodynamics department of Scuderia AlphaTauri Formula 1 team.
+                        I developed internal tools for various groups to facilitate
+                        improvements to the performance of the cars.
+                    </p>
+                    <p>
+                        The project where I spent the most of my time was an Automatic
+                        Pressure Tap testing system. F1 teams collect air pressure
+                        data from different areas of the car during Wind Tunnel runs and
+                        Track sessions. This along with CFD Probing allows us to create
+                        heatmap displays critical to cross-domain correlation.
+                        This falls apart however, if the data we read from pressure taps
+                        is erronous due to a blockage or damage in the line between the
+                        car surface and the scanner port.
+                        My project sends a known pressure down these lines in a particular
+                        way and measures the response to determine if there is an issue and
+                        what that issue is.
+                        The hardware box for this project (that contains pressure scanners
+                        and solenoid valves) was already built up when I arrived and the
+                        Software UI was mostly built out already too, however the pressure
+                        tests were unreliable and -- as I would later discover -- incorrectly
+                        implemented.
+                        I spent much of my first months learning WPF, cleaning up some
+                        inconsistencies with the codebase and aligning it with the coding
+                        standards as best I could without rewriting everything.
+                        My first major feature was to export pressure over time data to
+                        a file that could be read in a program called Pi Toolbox.
+                        The system had a 3D view of Wind Tunnel parts as you're testing them,
+                        but some parts are symmetrical and don't have a dedicated .stl file
+                        to save storage space. I performed some pattern matching on the
+                        Part Number string to determine whether a part was mirrored (according
+                        to the Part Numbering standard) and performed the mirroring operations
+                        on the existing corresponding part as required.
+                    </p>
+                    <p>
+                        The hardware side of the Pressure Tap testing project is powered by
+                        a Beckhoff PLC. I had the opportunity to attend a 2-day PLC Programming
+                        training course hosted by Beckhoff in Huntingdon. This gave me a much
+                        greater context of how the system worked and enabled me to make
+                        improvements down the line.
                     </p>
                     <p>
                         The role also involves various IT tasks such as swapping RAM in
                         office PCs, reimaging devices before they can be repurposed,
                         recording and editing videos for LinkedIn, and panelling webinars.
                     </p>
-                    <p>C#, WPF, HTML, CSS, JavaScript.</p>
+                    <p>C#, WPF, Beckhoff PLC, Structured Text, JavaScript.</p>
                 </div>
             </section>
 
