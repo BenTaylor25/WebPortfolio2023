@@ -9,7 +9,7 @@ export default function Home() {
             <h2>Former Intern Software Engineer at Scuderia AlphaTauri.</h2>
             <img src={"assets/windtunnel.jpg"} alt="portrait of Ben" />
             <p>C#, TypeScript, Python</p>
-            <p>React, Git, VSCode.</p>
+            <p>React, WPF, Git, VSCode.</p>
         </main>
     );
 }
