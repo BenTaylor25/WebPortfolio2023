@@ -14,5 +14,37 @@
         "review": "Algorithms to Live By offers a number of strategies for approaching the scary problems in life such as when to stop looking, the new vs the familiar, and dealing with insufficient information. For those of us that like to solve as many aspects of our lives as possible, practical strategies are often proposed. Where there exists no feasible solution, justification for when and why to accept chance is given. The authors also threw in some relatable humour at times. Algorithms to Live By is a book that almost anyone can stand to benefit from reading, but you will especially enjoy it if you are mathematically/computationally inclined and interested in Philosophy and Psychology.",
         "genre": "Non-Fiction, Computer Science, Psychology, Philosophy",
         "link": "https://www.goodreads.com/en/book/show/25666050"
+    },
+    {
+        "name": "Eat That Frog!",
+        "author": "Brian Tracy",
+        "rating": "8/10",
+        "review": "Eat That Frog! is an excellent and concise book about productivity both inside and outside of work. The book covers determining what is important to you, setting long-, medium- and short- term goals, breaking goals into tasks and tasks into achievable objectives, and techniques for how to get started and work effectively. I recommend this book to anyone who feels like they're falling short of their goals, be it through lack of time, or procrastination. Each chapter ends with a summary and a list of actionable steps.",
+        "genre": "Non-Fiction, Time Management, Psychology",
+        "link": "https://www.goodreads.com/book/show/95887.Eat_That_Frog_"
+    },
+    {
+        "name": "The Ultimate Time Management Toolkit",
+        "author": "Risa Williams",
+        "rating": "8/10",
+        "review": "UTMTK is a book about not just scheduling, but how to mentally prepare yourself for- and recover from difficult tasks, and how to reward yourself and stay motivated. Williams personifies the concepts in a very digestible way, and always prioritises realism over raw efficiency.",
+        "genre": "Non-Fiction, Time Management, Psychology",
+        "link": "https://www.goodreads.com/book/show/62036088-the-ultimate-time-management-toolkit"
+    },
+    {
+        "name": "The Autistic Brain",
+        "author": "Temple Grandin and Richard Panek",
+        "rating": "7.5/10",
+        "review": "The diagnostic criteria of autism changes with every iteration of the DSM. Diagnoses are conducted behaviourally because the variation in human brains means we can't make conclusions from neurological patterns we see in people with autism. Grandin explores her diagnosis, her upbringing, her work, and her collaboration with neuroscientists and behavioural psychologists to push forward our scientific understanding. She also discusses how autism — at least in most cases — is a difference rather than a disability. She lays out some frameworks for thinking, highlights the value that autistic people can bring to an organisation, and encourages different types of autistic people to find a role that is suitable for them. I would recommend this book to parents of autistic children, and to autistic individuals that wish to gain a better understanding of their condition.",
+        "genre": "Autism, Neuroscience, Psychology",
+        "link": "https://www.goodreads.com/book/show/16056498-the-autistic-brain?ref=nav_sb_ss_1_18"
+    },
+    {
+        "name": "Life Coaching for Adults on the Autism Spectrum",
+        "author": "Jaclyn Hunt",
+        "rating": "6.5/10",
+        "review": "It's easy to feel alone or helpless when you have a neurological condition that interferes with your ability to connect to people. Life Coaching for Adults on the Autism Spectrum discusses the value and the shortcoming of therapy, and presents life coaching as a more intimate way to make a real difference in people's lives. This book is an excellent introduction to autism and the help that's available. I recommend it to any parents / carers of autism, managers / colleagues of autistic staff, and to autistic individuals that feel they don't understand their condition or how it makes them different. For me, I was diagnosed at age 20 after seeking out an assessment myself. This followed and preceded a significant amount of research on the condition, and I thus feel I didn't learn a great deal from the book beyond the idea of life coaching.",
+        "genre": "Autism, Psychology",
+        "link": "https://www.goodreads.com/book/show/60393538-life-coaching-for-adults-on-the-autism-spectrum?ref=nav_sb_ss_2_23"
     }
 ]
